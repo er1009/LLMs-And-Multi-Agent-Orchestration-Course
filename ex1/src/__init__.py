@@ -1,0 +1,2 @@
+"""Ollama Chat Application."""
+

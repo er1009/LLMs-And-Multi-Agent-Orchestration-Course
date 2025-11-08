@@ -1,0 +1,13 @@
+# Chat Application with Local LLM - Dependencies
+# Install with: pip install -r requirements.txt
+
+# HTTP client for Ollama API
+requests>=2.31.0
+
+# GUI framework (tkinter is usually built-in with Python)
+# If tkinter is missing, install python-tk package via system package manager
+
+# Testing framework
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
