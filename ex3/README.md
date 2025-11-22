@@ -548,5 +548,3 @@ For questions or issues, please:
 - See [ARCHITECTURE.md](docs/ARCHITECTURE.md) for technical details
 
 ---
-
-**Built with ❤️ for M.Sc. Computer Science Research**
