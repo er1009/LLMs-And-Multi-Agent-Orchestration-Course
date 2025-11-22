@@ -1,0 +1,34 @@
+{
+  "description": "Unary increment machine - adds 1 to a unary number (represented as a string of 1s)",
+  "states": ["q0", "q1", "q_halt"],
+  "alphabet": ["1", "_"],
+  "initial_state": "q0",
+  "halting_states": ["q_halt"],
+  "blank_symbol": "_",
+  "transitions": [
+    {
+      "state": "q0",
+      "symbol": "1",
+      "new_state": "q0",
+      "write": "1",
+      "move": "R",
+      "comment": "Move right over all 1s"
+    },
+    {
+      "state": "q0",
+      "symbol": "_",
+      "new_state": "q1",
+      "write": "1",
+      "move": "L",
+      "comment": "Write a 1 after the last 1, then move left"
+    },
+    {
+      "state": "q1",
+      "symbol": "1",
+      "new_state": "q_halt",
+      "write": "1",
+      "move": "R",
+      "comment": "Halt"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "description": "Palindrome checker - checks if input is a palindrome (simplified version)",
+  "states": ["q0", "q1", "q2", "q3", "q_accept", "q_reject"],
+  "alphabet": ["a", "b", "_", "X"],
+  "initial_state": "q0",
+  "halting_states": ["q_accept", "q_reject"],
+  "blank_symbol": "_",
+  "transitions": [
+    {
+      "state": "q0",
+      "symbol": "a",
+      "new_state": "q1",
+      "write": "X",
+      "move": "R",
+      "comment": "Mark first 'a', look for matching last"
+    },
+    {
+      "state": "q0",
+      "symbol": "b",
+      "new_state": "q2",
+      "write": "X",
+      "move": "R",
+      "comment": "Mark first 'b', look for matching last"
+    },
+    {
+      "state": "q0",
+      "symbol": "X",
+      "new_state": "q0",
+      "write": "X",
+      "move": "R",
+      "comment": "Skip marked symbols"
+    },
+    {
+      "state": "q0",
+      "symbol": "_",
+      "new_state": "q_accept",
+      "write": "_",
+      "move": "R",
+      "comment": "Empty or all matched - palindrome!"
+    },
+    {
+      "state": "q1",
+      "symbol": "a",
+      "new_state": "q1",
+      "write": "a",
+      "move": "R",
+      "comment": "Move to end"
+    },
+    {
+      "state": "q1",
+      "symbol": "b",
+      "new_state": "q1",
+      "write": "b",
+      "move": "R",
+      "comment": "Move to end"
+    },
+    {
+      "state": "q1",
+      "symbol": "_",
+      "new_state": "q3",
+      "write": "_",
+      "move": "L",
+      "comment": "Found end, go back"
+    },
+    {
+      "state": "q3",
+      "symbol": "a",
+      "new_state": "q0",
+      "write": "X",
+      "move": "L",
+      "comment": "Match found, mark and restart"
+    },
+    {
+      "state": "q3",
+      "symbol": "X",
+      "new_state": "q0",
+      "write": "X",
+      "move": "L",
+      "comment": "Skip back over marked"
+    },
+    {
+      "state": "q3",
+      "symbol": "b",
+      "new_state": "q_reject",
+      "write": "b",
+      "move": "R",
+      "comment": "Mismatch - not palindrome"
+    }
+  ]
+}

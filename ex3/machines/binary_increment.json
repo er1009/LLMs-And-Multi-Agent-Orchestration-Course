@@ -1,0 +1,66 @@
+{
+  "description": "Binary increment machine - adds 1 to a binary number",
+  "states": ["q0", "q1", "q2", "q_halt"],
+  "alphabet": ["0", "1", "_"],
+  "initial_state": "q0",
+  "halting_states": ["q_halt"],
+  "blank_symbol": "_",
+  "transitions": [
+    {
+      "state": "q0",
+      "symbol": "0",
+      "new_state": "q0",
+      "write": "0",
+      "move": "R",
+      "comment": "Skip 0s, move right"
+    },
+    {
+      "state": "q0",
+      "symbol": "1",
+      "new_state": "q0",
+      "write": "1",
+      "move": "R",
+      "comment": "Skip 1s, move right"
+    },
+    {
+      "state": "q0",
+      "symbol": "_",
+      "new_state": "q1",
+      "write": "_",
+      "move": "L",
+      "comment": "Found end, go back to last digit"
+    },
+    {
+      "state": "q1",
+      "symbol": "1",
+      "new_state": "q1",
+      "write": "0",
+      "move": "L",
+      "comment": "Carry: 1 becomes 0, continue left"
+    },
+    {
+      "state": "q1",
+      "symbol": "0",
+      "new_state": "q_halt",
+      "write": "1",
+      "move": "R",
+      "comment": "No carry: 0 becomes 1, halt"
+    },
+    {
+      "state": "q1",
+      "symbol": "_",
+      "new_state": "q2",
+      "write": "1",
+      "move": "R",
+      "comment": "All digits were 1, add 1 at beginning"
+    },
+    {
+      "state": "q2",
+      "symbol": "0",
+      "new_state": "q_halt",
+      "write": "0",
+      "move": "R",
+      "comment": "Halt"
+    }
+  ]
+}

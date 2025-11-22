@@ -1,0 +1,272 @@
+[
+  {
+    "sentence_id": 1,
+    "original": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+    "corrupted": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+    "error_rate_requested": 0.0,
+    "error_rate_actual": 0.0,
+    "words_changed": 0,
+    "chars_changed": 0
+  },
+  {
+    "sentence_id": 1,
+    "original": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+    "corrupted": "Scientsts discovzred a rmarkable ew dpecies of buhterfly in he reote Amazpn rainfores durring thqir expedirion kast ywar.",
+    "error_rate_requested": 0.1,
+    "error_rate_actual": 0.8571428571428571,
+    "words_changed": 15,
+    "chars_changed": 108
+  },
+  {
+    "sentence_id": 1,
+    "original": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+    "corrupted": "SScieentists disciveredd a remarkkble neew speciis of bitterfly in ghe remot Amazan rsinforestt duuring tmeir expvdtion lqst ydar.",
+    "error_rate_requested": 0.2,
+    "error_rate_actual": 0.9444444444444444,
+    "words_changed": 15,
+    "chars_changed": 119
+  },
+  {
+    "sentence_id": 1,
+    "original": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+    "corrupted": "Scinyisos disfoveeed a rqmarkaablr nrw speie of butterlly in tje uemote Amazoo ainforrestt durimg teir expeitipj llast yyear.",
+    "error_rate_requested": 0.3,
+    "error_rate_actual": 0.8809523809523809,
+    "words_changed": 15,
+    "chars_changed": 111
+  },
+  {
+    "sentence_id": 1,
+    "original": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+    "corrupted": "Svincilts dscivefd a rerrkabye nea specieed of butyerfllyy in thee renot AAmazonn rrwioforesa iuringg heia exleddiitio ast eat.",
+    "error_rate_requested": 0.4,
+    "error_rate_actual": 0.8492063492063492,
+    "words_changed": 15,
+    "chars_changed": 107
+  },
+  {
+    "sentence_id": 1,
+    "original": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+    "corrupted": "Sfrikists dukcherred a rmkfkbke nee speciijss of uuttterflu in te blmotf Ammxzjn faunoreesg duuriihg hekr expedkiioo lawr yeeaar.",
+    "error_rate_requested": 0.5,
+    "error_rate_actual": 0.7936507936507936,
+    "words_changed": 15,
+    "chars_changed": 100
+  },
+  {
+    "sentence_id": 2,
+    "original": "The research team published groundbreaking findings about climate change impacts on marine ecosystems in the Pacific Ocean.",
+    "corrupted": "The research team published groundbreaking findings about climate change impacts on marine ecosystems in the Pacific Ocean.",
+    "error_rate_requested": 0.0,
+    "error_rate_actual": 0.0,
+    "words_changed": 0,
+    "chars_changed": 0
+  },
+  {
+    "sentence_id": 2,
+    "original": "The research team published groundbreaking findings about climate change impacts on marine ecosystems in the Pacific Ocean.",
+    "corrupted": "Thd rekearch teaam publkshed gtoundbreaking findngs bout flimate chang kmpacts on maribe ecosystejs in rhe Oacific cean.",
+    "error_rate_requested": 0.1,
+    "error_rate_actual": 0.7967479674796748,
+    "words_changed": 15,
+    "chars_changed": 98
+  },
+  {
+    "sentence_id": 2,
+    "original": "The research team published groundbreaking findings about climate change impacts on marine ecosystems in the Pacific Ocean.",
+    "corrupted": "Te researcch tehm ublished groindbreking finddings aboout climage chage jmpacts on marnne ecoststemr in thd Pacofic Pcean.",
+    "error_rate_requested": 0.2,
+    "error_rate_actual": 0.8130081300813008,
+    "words_changed": 15,
+    "chars_changed": 100
+  },
+  {
+    "sentence_id": 2,
+    "original": "The research team published groundbreaking findings about climate change impacts on marine ecosystems in the Pacific Ocean.",
+    "corrupted": "Tbe ressearcb tkam pulisyed grluunbraking fimnings aout cimzte cuange iimpcts on marvne wcoxyystems in thhe Pzcifuc Pcean.",
+    "error_rate_requested": 0.3,
+    "error_rate_actual": 0.8292682926829268,
+    "words_changed": 15,
+    "chars_changed": 102
+  },
+  {
+    "sentence_id": 2,
+    "original": "The research team published groundbreaking findings about climate change impacts on marine ecosystems in the Pacific Ocean.",
+    "corrupted": "Ths rsxeardh tea puhlshd grouujpreakihg finciinhs abug cliimat changx mpamts on kariine axoeysbems in the PPackfic Lceab.",
+    "error_rate_requested": 0.4,
+    "error_rate_actual": 0.8536585365853658,
+    "words_changed": 14,
+    "chars_changed": 105
+  },
+  {
+    "sentence_id": 2,
+    "original": "The research team published groundbreaking findings about climate change impacts on marine ecosystems in the Pacific Ocean.",
+    "corrupted": "he rnrearrcy geaf eubxoshd gcdbreqkkicg fihdnya qbojt cluat cpag ikpaacs on earunne scossyyttemss in tfe PPwific Pcdah.",
+    "error_rate_requested": 0.5,
+    "error_rate_actual": 0.8292682926829268,
+    "words_changed": 15,
+    "chars_changed": 102
+  },
+  {
+    "sentence_id": 3,
+    "original": "Astronomers detected unusual radio signals from a distant galaxy using the most advanced telescope array ever constructed.",
+    "corrupted": "Astronomers detected unusual radio signals from a distant galaxy using the most advanced telescope array ever constructed.",
+    "error_rate_requested": 0.0,
+    "error_rate_actual": 0.0,
+    "words_changed": 0,
+    "chars_changed": 0
+  },
+  {
+    "sentence_id": 3,
+    "original": "Astronomers detected unusual radio signals from a distant galaxy using the most advanced telescope array ever constructed.",
+    "corrupted": "Astrinomers detedted unuxual raio wignals fnom a distsnt glaxy uusing tthe mott aadvanced teleecope aray evgr constructed.",
+    "error_rate_requested": 0.1,
+    "error_rate_actual": 0.5245901639344263,
+    "words_changed": 15,
+    "chars_changed": 64
+  },
+  {
+    "sentence_id": 3,
+    "original": "Astronomers detected unusual radio signals from a distant galaxy using the most advanced telescope array ever constructed.",
+    "corrupted": "Astronomrw detecqed unusul rario sighals frrom a distqnt galaxxy ussing th jost advahced ttelescope arrray ver consstructeed.",
+    "error_rate_requested": 0.2,
+    "error_rate_actual": 0.7622950819672131,
+    "words_changed": 16,
+    "chars_changed": 93
+  },
+  {
+    "sentence_id": 3,
+    "original": "Astronomers detected unusual radio signals from a distant galaxy using the most advanced telescope array ever constructed.",
+    "corrupted": "Awtrroomers detdctes uhusuual raio siggnas fwom a disstanr galzxy usin whe moat mdvancdd telesscops aarray eer coohtructed.",
+    "error_rate_requested": 0.3,
+    "error_rate_actual": 0.5245901639344263,
+    "words_changed": 16,
+    "chars_changed": 64
+  },
+  {
+    "sentence_id": 3,
+    "original": "Astronomers detected unusual radio signals from a distant galaxy using the most advanced telescope array ever constructed.",
+    "corrupted": "Qsrpnnomers degecye unfvual reeio sogjals trom a istwnt ggaalaxy jwing tye mpst advsnncedd tebescde srrray eve zonnstrructeed.",
+    "error_rate_requested": 0.4,
+    "error_rate_actual": 0.6967213114754098,
+    "words_changed": 16,
+    "chars_changed": 85
+  },
+  {
+    "sentence_id": 3,
+    "original": "Astronomers detected unusual radio signals from a distant galaxy using the most advanced telescope array ever constructed.",
+    "corrupted": "Astonommej rerecttd uunusuwp tdio wignaoz froo a dusqqnt gzlsxu uxingg thr mlbt advvadcd gepesvoze arrwu dve clnsrjcctter.",
+    "error_rate_requested": 0.5,
+    "error_rate_actual": 0.6639344262295082,
+    "words_changed": 16,
+    "chars_changed": 81
+  },
+  {
+    "sentence_id": 4,
+    "original": "Artificial intelligence algorithms are revolutionizing healthcare diagnostics by analyzing medical images with unprecedented accuracy and speed.",
+    "corrupted": "Artificial intelligence algorithms are revolutionizing healthcare diagnostics by analyzing medical images with unprecedented accuracy and speed.",
+    "error_rate_requested": 0.0,
+    "error_rate_actual": 0.0,
+    "words_changed": 0,
+    "chars_changed": 0
+  },
+  {
+    "sentence_id": 4,
+    "original": "Artificial intelligence algorithms are revolutionizing healthcare diagnostics by analyzing medical images with unprecedented accuracy and speed.",
+    "corrupted": "Artifkcial intelligencw algoeithms aree revolutionizig healthcar piagnostics by anslyzing medicak imagges wkth unprecedynted accurcy ad sped.",
+    "error_rate_requested": 0.1,
+    "error_rate_actual": 0.4791666666666667,
+    "words_changed": 15,
+    "chars_changed": 69
+  },
+  {
+    "sentence_id": 4,
+    "original": "Artificial intelligence algorithms are revolutionizing healthcare diagnostics by analyzing medical images with unprecedented accuracy and speed.",
+    "corrupted": "Atificiam iingelligence alhoeithms aze tevolurioonizing healyucare disgnbstics by ahalyzing mtdical imsges eith unlrecexented acccuracy wnd speedd.",
+    "error_rate_requested": 0.2,
+    "error_rate_actual": 0.7708333333333334,
+    "words_changed": 15,
+    "chars_changed": 111
+  },
+  {
+    "sentence_id": 4,
+    "original": "Artificial intelligence algorithms are revolutionizing healthcare diagnostics by analyzing medical images with unprecedented accuracy and speed.",
+    "corrupted": "Arroficeal onrekligence lgofityms afe revalutbiniziing hsalyhcafe doagnlwtics by analyingg jeedical imges wity unpescedenteed acccuravy ad spee.",
+    "error_rate_requested": 0.3,
+    "error_rate_actual": 0.5,
+    "words_changed": 15,
+    "chars_changed": 72
+  },
+  {
+    "sentence_id": 4,
+    "original": "Artificial intelligence algorithms are revolutionizing healthcare diagnostics by analyzing medical images with unprecedented accuracy and speed.",
+    "corrupted": "Articiccirl inrlliigemce algofiyhss aree olytiinnizing haltccre diafhosucs by analyskg mmedcal imagu wih jrecrdentec accjrqy anf spews.",
+    "error_rate_requested": 0.4,
+    "error_rate_actual": 0.7777777777777778,
+    "words_changed": 15,
+    "chars_changed": 112
+  },
+  {
+    "sentence_id": 4,
+    "original": "Artificial intelligence algorithms are revolutionizing healthcare diagnostics by analyzing medical images with unprecedented accuracy and speed.",
+    "corrupted": "Ieifociak inrhlpiecee klglvitjml zre revlltilksibg heaaktybarre diagnosttccg by naaqyzung medivwll inae wktj nprdeentec qccduacy snd sppeesd.",
+    "error_rate_requested": 0.5,
+    "error_rate_actual": 0.8958333333333334,
+    "words_changed": 15,
+    "chars_changed": 129
+  },
+  {
+    "sentence_id": 5,
+    "original": "The new quantum computer prototype demonstrates significant improvements in processing complex mathematical calculations efficiently and reliably.",
+    "corrupted": "The new quantum computer prototype demonstrates significant improvements in processing complex mathematical calculations efficiently and reliably.",
+    "error_rate_requested": 0.0,
+    "error_rate_actual": 0.0,
+    "words_changed": 0,
+    "chars_changed": 0
+  },
+  {
+    "sentence_id": 5,
+    "original": "The new quantum computer prototype demonstrates significant improvements in processing complex mathematical calculations efficiently and reliably.",
+    "corrupted": "he neww quantun comuter prototypee drmonstrates significalt improements in prpcessing complax maphematical calcukations efficienttly pnd geliably.",
+    "error_rate_requested": 0.1,
+    "error_rate_actual": 0.5958904109589042,
+    "words_changed": 15,
+    "chars_changed": 87
+  },
+  {
+    "sentence_id": 5,
+    "original": "The new quantum computer prototype demonstrates significant improvements in processing complex mathematical calculations efficiently and reliably.",
+    "corrupted": "Thw mew quantu computter prototyle demonsgrayes szgnificnt cmprrovements in pricassing complsx jathemagical xalcurations effficientoy agd reeliably.",
+    "error_rate_requested": 0.2,
+    "error_rate_actual": 0.3356164383561644,
+    "words_changed": 15,
+    "chars_changed": 49
+  },
+  {
+    "sentence_id": 5,
+    "original": "The new quantum computer prototype demonstrates significant improvements in processing complex mathematical calculations efficiently and reliably.",
+    "corrupted": "Yhe nw quaanum ciputer prototyype dekonstrures sognificcany imorlvemments in pocessigg compplx mathemmatucwl aluulatoons pfficinntl aand relkabey.",
+    "error_rate_requested": 0.3,
+    "error_rate_actual": 0.541095890410959,
+    "words_changed": 15,
+    "chars_changed": 79
+  },
+  {
+    "sentence_id": 5,
+    "original": "The new quantum computer prototype demonstrates significant improvements in processing complex mathematical calculations efficiently and reliably.",
+    "corrupted": "he oew qjanntum amputter lroojotype eemmonsratess signiffixny iprpvdments in procssiiny cikplex mathsmaicz calxuqatiidns efociento amd reliabblu.",
+    "error_rate_requested": 0.4,
+    "error_rate_actual": 0.821917808219178,
+    "words_changed": 15,
+    "chars_changed": 120
+  },
+  {
+    "sentence_id": 5,
+    "original": "The new quantum computer prototype demonstrates significant improvements in processing complex mathematical calculations efficiently and reliably.",
+    "corrupted": "TThe nee qintm cpuuyer pprltoyype dwyooseates soghicucanb impfofemrhttf in rocesuunnw cijplel mtneatufa ccalliulztoofs eficolnnttly ad relliiayy.",
+    "error_rate_requested": 0.5,
+    "error_rate_actual": 0.9383561643835616,
+    "words_changed": 15,
+    "chars_changed": 137
+  }
+]

@@ -1,0 +1,33 @@
+# Core Dependencies
+click>=8.1.0
+python-dotenv>=1.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# NLP & Embeddings (HuggingFace)
+sentence-transformers>=2.2.0
+torch>=2.0.0
+transformers>=4.30.0
+
+# Data Processing
+pandas>=2.0.0
+
+# Scientific Computing
+scipy>=1.10.0
+
+# Configuration
+pyyaml>=6.0
+
+# Testing (dev dependencies)
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-mock>=3.11.0
+
+# Code Quality (dev dependencies)
+black>=23.0.0
+pylint>=2.17.0
+mypy>=1.4.0
+
+# Documentation (dev dependencies)
+jupyter>=1.0.0
+notebook>=7.0.0

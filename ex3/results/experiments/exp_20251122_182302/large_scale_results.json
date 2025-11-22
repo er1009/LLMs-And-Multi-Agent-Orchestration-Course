@@ -1,0 +1,1109 @@
+{
+  "results": [
+    {
+      "sentence_id": 1,
+      "original": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+      "error_rate": 0.0,
+      "corrupted": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+      "translation": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+      "cosine_distance": 0.0,
+      "euclidean_distance": 0.0,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 1,
+      "original": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+      "error_rate": 0.05,
+      "corrupted": "Scientistp discpvered a remarkabl neww sspecies of nutterfly in thw temote Amqzon rainfofest during thiir expeditiln laat yrar.",
+      "translation": "Scientistp discpvered a remarkabl neww sspecies of nutterfly in thw temote Amqzon rainfofest during thiir expeditiln laat yrar.",
+      "cosine_distance": 0.638324499130249,
+      "euclidean_distance": 1.129888892173767,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 1,
+      "original": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+      "error_rate": 0.1,
+      "corrupted": "Sjientists discoovered a remarkabe neg specied of buttervly in thhe rempte Amazoh raibforest durimg ttheir expedieion laxt yyear.",
+      "translation": "Sjientists discoovered a remarkabe neg specied of buttervly in thhe rempte Amazoh raibforest durimg ttheir expedieion laxt yyear.",
+      "cosine_distance": 1.0151287317276,
+      "euclidean_distance": 1.4248709678649902,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 1,
+      "original": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+      "error_rate": 0.15000000000000002,
+      "corrupted": "Sciehtists disscovered a remarmable ne specoes of butgerfly in tthe eemote Amzon raiforest durint thir expedigion laast ysar.",
+      "translation": "Sciehtists disscovered a remarmable ne specoes of butgerfly in tthe eemote Amzon raiforest durint thir expedigion laast ysar.",
+      "cosine_distance": 0.5864968299865723,
+      "euclidean_distance": 1.0830483436584473,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 1,
+      "original": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+      "error_rate": 0.2,
+      "corrupted": "Svientisys eiscoverred a rrejarkable ndw sprcies of buttercly in tne remotee Wmazon ranfnrest duting theor wxpedktion lasw yewr.",
+      "translation": "Svientisys eiscoverred a rrejarkable ndw sprcies of buttercly in tne remotee Wmazon ranfnrest duting aor wxpedktion lasw yewr.",
+      "cosine_distance": 1.007773756980896,
+      "euclidean_distance": 1.419699788093567,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 1,
+      "original": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+      "error_rate": 0.25,
+      "corrupted": "Scientkstts discoverdd a jemsrkable nnew speces of buuterflly in ghe romote Vmazon tainforesr duriny theor expeditih yast yeear.",
+      "translation": "Scientkstts discoverdd a jemsrkable nnew speces of buuterflly in ghe romote Vmazon tainforesr duriny aor expeditih yast yeear.",
+      "cosine_distance": 0.9267687201499939,
+      "euclidean_distance": 1.361446738243103,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 1,
+      "original": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+      "error_rate": 0.30000000000000004,
+      "corrupted": "Sxiensts disovetef a remwrrkablle nw pecie of butyerrfly in yhe reemote Amaaon raiinfrext yuring ttheir expdditrob lst yezr.",
+      "translation": "Sxiensts disovetef a remwrrkablle nw pecie of butyerrfly in yhe reemote Amaaon raiinfrext yuring tair expdditrob lst yezr.",
+      "cosine_distance": 1.0085595846176147,
+      "euclidean_distance": 1.4202531576156616,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 1,
+      "original": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+      "error_rate": 0.35000000000000003,
+      "corrupted": "Sienntiats discovvezd a remsrkabllw mew epeies of buutterfkr in thhe rekkte Ajazod taindorst ddurring theif esedimion lst yea.",
+      "translation": "Sienntiats discovvezd a remsrkabllw mew epeies of buutterfkr in thhe rekkte Ajazod taindorst ddurring aif esedimion lst yea.",
+      "cosine_distance": 1.0277149677276611,
+      "euclidean_distance": 1.433677077293396,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 1,
+      "original": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+      "error_rate": 0.4,
+      "corrupted": "Zcienntisttw disfoverrx a remmaarksbl bew spciss of gutrdrfly in thhe remotn Amazzoz raalnoresy duoini reir xedditiin las deat.",
+      "translation": "Zcienntisttw disfoverrx a remmaarksbl bew spciss of gutrdrfly in",
+      "cosine_distance": 1.0456643104553223,
+      "euclidean_distance": 1.4461426734924316,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 1,
+      "original": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+      "error_rate": 0.45,
+      "corrupted": "Scentmwtss eiscovvrred a rejarkjbw new spxcip of brtysrly in thee remogw Qmazjn xaihffirest durog thekf exppdizio lwst yyeqr.",
+      "translation": "Scentmwtss eiscovvrred a rejarkjbw new spxcip of brtysrly in",
+      "cosine_distance": 0.9734857678413391,
+      "euclidean_distance": 1.3953392505645752,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 1,
+      "original": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+      "error_rate": 0.5,
+      "corrupted": "Sxisnixtc duzclgerrd a emafkbo nen weies of buttblt in he rdotee kazonn aiibgoreest dyhijg tbei nxxleituon asg ueaf.",
+      "translation": "Sxisnixtc duzclgerrd a emafkbo nen weies of buttblt in",
+      "cosine_distance": 1.093285083770752,
+      "euclidean_distance": 1.4787055253982544,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 2,
+      "original": "The research team published groundbreaking findings about climate change impacts on marine ecosystems in the Pacific Ocean.",
+      "error_rate": 0.0,
+      "corrupted": "The research team published groundbreaking findings about climate change impacts on marine ecosystems in the Pacific Ocean.",
+      "translation": "The research team published groundbreaking findings about climate change impacts on marine ecosystems in the Pacific Ocean.",
+      "cosine_distance": 0.0,
+      "euclidean_distance": 0.0,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 2,
+      "original": "The research team published groundbreaking findings about climate change impacts on marine ecosystems in the Pacific Ocean.",
+      "error_rate": 0.05,
+      "corrupted": "Th researfh teqm publishhed groundbrsaking fiddings abut coimate chabge impactq on matine eccosystems in te Paciffic OOcean.",
+      "translation": "Th researfh teqm publishhed groundbrsaking fiddings abut coimate chabge impactq on matine eccosystems in te Paciffic OOcean.",
+      "cosine_distance": 0.7829121351242065,
+      "euclidean_distance": 1.251328945159912,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 2,
+      "original": "The research team published groundbreaking findings about climate change impacts on marine ecosystems in the Pacific Ocean.",
+      "error_rate": 0.1,
+      "corrupted": "Tht reearch eam pyblished groundbreakivg findngs aboit climte cjange impactss on marrine ecosysgems in thd Oacific Oxean.",
+      "translation": "Tht reearch eam pyblished groundbreakivg findngs aboit climte cjange impactss on marrine ecosysgems in thd Oacific Oxean.",
+      "cosine_distance": 0.6893249750137329,
+      "euclidean_distance": 1.1741591691970825,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 2,
+      "original": "The research team published groundbreaking findings about climate change impacts on marine ecosystems in the Pacific Ocean.",
+      "error_rate": 0.15000000000000002,
+      "corrupted": "Tje reserch teamm publshed groundbrsaming ffindings abut climatte channge ipacts on maine ecosystem in qhe Pacifid Ocea.",
+      "translation": "Tje reserch teamm publshed groundbrsaming ffindings abut climatte channge ipacts on maine ecosystem in qhe Pacifid Ocea.",
+      "cosine_distance": 0.7118363380432129,
+      "euclidean_distance": 1.193177580833435,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 2,
+      "original": "The research team published groundbreaking findings about climate change impacts on marine ecosystems in the Pacific Ocean.",
+      "error_rate": 0.2,
+      "corrupted": "Thj researfh teak pblished troundbreakinh findinggs abouy climmate ceange imppacts on marie ecosygems in ths Pacigic Oean.",
+      "translation": "Thj researfh teak pblished troundbreakinh findinggs abouy climmate ceange imppacts on marie ecosygems in ths Pacigic Oean.",
+      "cosine_distance": 0.8723706007003784,
+      "euclidean_distance": 1.320886492729187,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 2,
+      "original": "The research team published groundbreaking findings about climate change impacts on marine ecosystems in the Pacific Ocean.",
+      "error_rate": 0.25,
+      "corrupted": "Thhe eesiarch tram publlishrd vroundbeaoing fimcings aabout flimate chqnge impactts on msrine ecoytems in thhe Paciic Oceean.",
+      "translation": "Thhe eesiarch tram publlishrd vroundbeaoing fimcings aabout flimate chqnge impactts on msrine ecoytems in thhe Paciic Oceean.",
+      "cosine_distance": 0.7260936498641968,
+      "euclidean_distance": 1.2050673961639404,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 2,
+      "original": "The research team published groundbreaking findings about climate change impacts on marine ecosystems in the Pacific Ocean.",
+      "error_rate": 0.30000000000000004,
+      "corrupted": "Thr rrseaarch tea ppublshed groundheakong indijgs abbout limare chznge iopjcts on arine rcossnems in th Paciffiv Ovean.",
+      "translation": "Thr rrseaarch tea ppublshed groundheakong indijgs abbout limare chznge iopjcts on arine rcossnems in th Paciffiv Ovean.",
+      "cosine_distance": 1.0273507833480835,
+      "euclidean_distance": 1.4334230422973633,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 2,
+      "original": "The research team published groundbreaking findings about climate change impacts on marine ecosystems in the Pacific Ocean.",
+      "error_rate": 0.35000000000000003,
+      "corrupted": "Te resuarcy tea lnblishid growndrakimg rindingd abut clcmatte chandd imoacte on maarile ecoysgem in ihe Pakificc Ocdqn.",
+      "translation": "Te resuarcy tea lnblishid growndrakimg rindingd abut clcmatte ch&d imoacte on maarile ecoysgem in ihe Pakificc Ocdqn.",
+      "cosine_distance": 0.9501591920852661,
+      "euclidean_distance": 1.3785202503204346,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 2,
+      "original": "The research team published groundbreaking findings about climate change impacts on marine ecosystems in the Pacific Ocean.",
+      "error_rate": 0.4,
+      "corrupted": "Te resepexh tfam punlliwhed grlunxbeeaakkng rindfnts sout clmmate hang mnacts on mmatine eedossysems in he Pacitqc Oceg.",
+      "translation": "Te resepexh tfam punlliwhed grlunxbeeaakkng rindfnts sout clmmate",
+      "cosine_distance": 1.0606868267059326,
+      "euclidean_distance": 1.4564934968948364,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 2,
+      "original": "The research team published groundbreaking findings about climate change impacts on marine ecosystems in the Pacific Ocean.",
+      "error_rate": 0.45,
+      "corrupted": "Tbe mssearcj jeam pujiixhed guondboeziing ffundiings but clxmattee cjangge emats on marnd ecsyytrm in ghe Ptvitic cesn.",
+      "translation": "Tbe mssearcj jeam pujiixhed guondboeziing ffundiings but clxmattee",
+      "cosine_distance": 1.004728078842163,
+      "euclidean_distance": 1.4175528287887573,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 2,
+      "original": "The research team published groundbreaking findings about climate change impacts on marine ecosystems in the Pacific Ocean.",
+      "error_rate": 0.5,
+      "corrupted": "Rhe feessarrch tm puublushlg rroufreaaimg ginximgss aou clijt cabe impscctss on mmatind eccldystrks in tue Pavfig OOea.",
+      "translation": "Rhe feessarrch tm puublushlg rroufreaaimg ginximgss aou clijt",
+      "cosine_distance": 1.1330140829086304,
+      "euclidean_distance": 1.5053333044052124,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 3,
+      "original": "Astronomers detected unusual radio signals from a distant galaxy using the most advanced telescope array ever constructed.",
+      "error_rate": 0.0,
+      "corrupted": "Astronomers detected unusual radio signals from a distant galaxy using the most advanced telescope array ever constructed.",
+      "translation": "Astronomers detected unusual radio signals from a distant galaxy using the most advanced telescope array ever constructed.",
+      "cosine_distance": 0.0,
+      "euclidean_distance": 0.0,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 3,
+      "original": "Astronomers detected unusual radio signals from a distant galaxy using the most advanced telescope array ever constructed.",
+      "error_rate": 0.05,
+      "corrupted": "Zstronomers detectedd ynusual rydio signalz fom a distaant galaaxy jsing tte mot dvanced telescopd aeray evver consructed.",
+      "translation": "Zstronomers detectedd ynusual rydio signalz fom a distaant galaaxy jsing tte mot dvanced telescopd aeray evver consructed.",
+      "cosine_distance": 0.6406505107879639,
+      "euclidean_distance": 1.1319457292556763,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 3,
+      "original": "Astronomers detected unusual radio signals from a distant galaxy using the most advanced telescope array ever constructed.",
+      "error_rate": 0.1,
+      "corrupted": "Astronomerd detecte unusucl rado sinals frm a distsnt galacy sing ghe mpst advahced telescoppe arrzy evef constricted.",
+      "translation": "Astronomerd detecte unusucl rado sinals frm a distsnt galacy sing ghe mpst advahced telescoppe arrzy evef constricted.",
+      "cosine_distance": 0.6346769332885742,
+      "euclidean_distance": 1.1266560554504395,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 3,
+      "original": "Astronomers detected unusual radio signals from a distant galaxy using the most advanced telescope array ever constructed.",
+      "error_rate": 0.15000000000000002,
+      "corrupted": "Astonomers detewted unusuual rqdio siignals frzm a ditant gaalaxy usong thhe moat advancwd telescooe arraay evkr constrcted.",
+      "translation": "Astonomers detewted unusuual rqdio siignals frzm a ditant gaalaxy usong thhe moat advancwd telescooe arraay evkr constrcted.",
+      "cosine_distance": 0.9139721989631653,
+      "euclidean_distance": 1.3520148992538452,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 3,
+      "original": "Astronomers detected unusual radio signals from a distant galaxy using the most advanced telescope array ever constructed.",
+      "error_rate": 0.2,
+      "corrupted": "stronimers detectwd uunusual radiio signalls frm a disyant gslaxy jsing tthe mosh advancwd yelescope array evee consttructvd.",
+      "translation": "stronimers detectwd uunusual radiio signalls frm a disyant gslaxy jsing ta mosh advancwd yelescope array evee consttructvd.",
+      "cosine_distance": 0.5597137212753296,
+      "euclidean_distance": 1.0580300092697144,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 3,
+      "original": "Astronomers detected unusual radio signals from a distant galaxy using the most advanced telescope array ever constructed.",
+      "error_rate": 0.25,
+      "corrupted": "Qstronoers rwtected ubusual radoo signaos frim a distajt gaalaxy uskng thw mot qvanced telexcoope arraay ver cpnnstrufted.",
+      "translation": "Qstronoers rwtected ubusual radoo signaos frim a distajt gaalaxy uskng thw mot qvanced telexcoope arraay ver cpnnstrufted.",
+      "cosine_distance": 0.806064248085022,
+      "euclidean_distance": 1.2696961164474487,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 3,
+      "original": "Astronomers detected unusual radio signals from a distant galaxy using the most advanced telescope array ever constructed.",
+      "error_rate": 0.30000000000000004,
+      "corrupted": "AAstronoperw etecte unuxuao rqdio ssifnals rrom a ddisyant galaxt usijg thh mmost adjanded tmlezcope armay wver constrruxred.",
+      "translation": "AAstronoperw etecte unuxuao rqdio ssifnals rrom a ddisyant galaxt usijg thh mmost adj&ed tmlezcope armay wver constrruxred.",
+      "cosine_distance": 0.8338913917541504,
+      "euclidean_distance": 1.291426658630371,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 3,
+      "original": "Astronomers detected unusual radio signals from a distant galaxy using the most advanced telescope array ever constructed.",
+      "error_rate": 0.35000000000000003,
+      "corrupted": "Zstronodrs mtected unjsuual radie sxhnals drom a dkstang galaaxxy usiing thhe moqt advancpdd geelescopee artay wver coonssteuhted.",
+      "translation": "Zstronodrs mtected unjsuual radie sxhnals drom a dkstang galaaxxy usiing thhe moqt advancpdd geelescopee artay wver coonssteuhted.",
+      "cosine_distance": 0.8618499040603638,
+      "euclidean_distance": 1.3128974437713623,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 3,
+      "original": "Astronomers detected unusual radio signals from a distant galaxy using the most advanced telescope array ever constructed.",
+      "error_rate": 0.4,
+      "corrupted": "Aerronomdrrs ettevted unusul raii skgnas frim a dirtqnt gaaxt uusin xhe iost addancer teescood airai eever onssrruated.",
+      "translation": "Aerronomdrrs ettevted unusul raii skgnas frim a dirtqnt",
+      "cosine_distance": 0.9740352034568787,
+      "euclidean_distance": 1.3957328796386719,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 3,
+      "original": "Astronomers detected unusual radio signals from a distant galaxy using the most advanced telescope array ever constructed.",
+      "error_rate": 0.45,
+      "corrupted": "Astmoonomerr decte uunusaal jadip sighass trom a mustantt gsllaxy usibgg tha ost asvaanved gekesripe arfaay evrr coonsruuite.",
+      "translation": "Astmoonomerr decte uunusaal jadip sighass trom a mustantt",
+      "cosine_distance": 0.9546287655830383,
+      "euclidean_distance": 1.3817588090896606,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 3,
+      "original": "Astronomers detected unusual radio signals from a distant galaxy using the most advanced telescope array ever constructed.",
+      "error_rate": 0.5,
+      "corrupted": "Srtronoomerra ceeneected uhusyzl rwio wugnalls feo a distwv glxxy ussinq thhe koxt adcencc rekesfopee irfay ebr pjsttucctted.",
+      "translation": "Srtronoomerra ceeneected uhusyzl rwio wugnalls feo a distwv",
+      "cosine_distance": 0.920089602470398,
+      "euclidean_distance": 1.3565319776535034,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 4,
+      "original": "Artificial intelligence algorithms are revolutionizing healthcare diagnostics by analyzing medical images with unprecedented accuracy and speed.",
+      "error_rate": 0.0,
+      "corrupted": "Artificial intelligence algorithms are revolutionizing healthcare diagnostics by analyzing medical images with unprecedented accuracy and speed.",
+      "translation": "Artificial intelligence algorithms are revolutionizing healthcare diagnostics by analyzing medical images with unprecedented accuracy and speed.",
+      "cosine_distance": 0.0,
+      "euclidean_distance": 0.0,
+      "word_count": 16
+    },
+    {
+      "sentence_id": 4,
+      "original": "Artificial intelligence algorithms are revolutionizing healthcare diagnostics by analyzing medical images with unprecedented accuracy and speed.",
+      "error_rate": 0.05,
+      "corrupted": "Artificiak intelligsnce algoithms ard revolutionzing healyhcare iagnostics by analyzung mediical ibages woth unpprecedented accurafy azd sleed.",
+      "translation": "Artificiak intelligsnce algoithms ard revolutionzing healyhcare iagnostics by analyzung mediical ibages woth unpprecedented accurafy azd sleed.",
+      "cosine_distance": 0.7338088154792786,
+      "euclidean_distance": 1.2114527225494385,
+      "word_count": 16
+    },
+    {
+      "sentence_id": 4,
+      "original": "Artificial intelligence algorithms are revolutionizing healthcare diagnostics by analyzing medical images with unprecedented accuracy and speed.",
+      "error_rate": 0.1,
+      "corrupted": "Atificial inttelligence amgorithms sre revolutionzing healthcarre diqgnostics by analyzzing medicaal imaes witth unprecedentted acuracy znd spedd.",
+      "translation": "Atificial inttelligence amgorithms sre revolutionzing healthcarre diqgnostics by analyzzing medicaal imaes witth unprecedentted acuracy znd spedd.",
+      "cosine_distance": 0.7391349077224731,
+      "euclidean_distance": 1.2158411741256714,
+      "word_count": 16
+    },
+    {
+      "sentence_id": 4,
+      "original": "Artificial intelligence algorithms are revolutionizing healthcare diagnostics by analyzing medical images with unprecedented accuracy and speed.",
+      "error_rate": 0.15000000000000002,
+      "corrupted": "Artifucial inrelligence algoritnms arx revolutuinizing hhealthcare viagnostics by analhzing medicao inages eith unprecedentld sccuracy amd sped.",
+      "translation": "Artifucial inrelligence algoritnms arx revolutuinizing hhealthcare viagnostics by analhzing medicao inages eith unprecedentld sccuracy amd sped.",
+      "cosine_distance": 0.7257034182548523,
+      "euclidean_distance": 1.204743504524231,
+      "word_count": 16
+    },
+    {
+      "sentence_id": 4,
+      "original": "Artificial intelligence algorithms are revolutionizing healthcare diagnostics by analyzing medical images with unprecedented accuracy and speed.",
+      "error_rate": 0.2,
+      "corrupted": "Aryifivial inttelligfnce altorithhms wre revlutionizzinb healrhhcare diagnoostic by analzing meical imafes witn unpprdcedented accuravy annd spesd.",
+      "translation": "Aryifivial inttelligfnce altorithhms wre revlutionizzinb healrhhcare diagnoostic by analzing meical imafes witn unpprdcedented accuravy annd spesd.",
+      "cosine_distance": 0.9214323163032532,
+      "euclidean_distance": 1.3575215339660645,
+      "word_count": 16
+    },
+    {
+      "sentence_id": 4,
+      "original": "Artificial intelligence algorithms are revolutionizing healthcare diagnostics by analyzing medical images with unprecedented accuracy and speed.",
+      "error_rate": 0.25,
+      "corrupted": "Artvicial inteloieence apgorithmss ate revplutioizihg heamthcarz diagnoics by anaalyyzing medicam image wiith ulrecedenteed accraxy abd spedd.",
+      "translation": "Artvicial inteloieence apgorithmss ate revplutioizihg heamthcarz diagnoics by anaalyyzing medicam image wiith ulrecedenteed accraxy abd spedd.",
+      "cosine_distance": 0.6398566961288452,
+      "euclidean_distance": 1.13124418258667,
+      "word_count": 16
+    },
+    {
+      "sentence_id": 4,
+      "original": "Artificial intelligence algorithms are revolutionizing healthcare diagnostics by analyzing medical images with unprecedented accuracy and speed.",
+      "error_rate": 0.30000000000000004,
+      "corrupted": "Arrificall intelliggeencce algoekthmss zre reevolluyionuzing heqljhcare dfagnnstiics by wnalyzin mkdicao ijages oith lnprecoddnted adcuravy ahd speee.",
+      "translation": "Arrificall intelliggeencce algoekthmss zre reevolluyionuzing heqljhcare dfagnnstiics by wnalyzin mkdicao ijages oith lnprecoddnted adcuravy ahd speee.",
+      "cosine_distance": 0.9257777333259583,
+      "euclidean_distance": 1.3607187271118164,
+      "word_count": 16
+    },
+    {
+      "sentence_id": 4,
+      "original": "Artificial intelligence algorithms are revolutionizing healthcare diagnostics by analyzing medical images with unprecedented accuracy and speed.",
+      "error_rate": 0.35000000000000003,
+      "corrupted": "Artkficill mneolligebce aogooxithms ara evvplutipnizinm xelthhcare diawnnotics by qnaalyzkng nedicall cmagws withh unlrecenten accercy amd apedd.",
+      "translation": "Artkficill mneolligebce aogooxithms ara evvplutipnizinm xelthhcare diawnnotics by qnaalyzkng nedicall cmagws withh unlrecenten accercy amd apedd.",
+      "cosine_distance": 0.8582733869552612,
+      "euclidean_distance": 1.3101705312728882,
+      "word_count": 16
+    },
+    {
+      "sentence_id": 4,
+      "original": "Artificial intelligence algorithms are revolutionizing healthcare diagnostics by analyzing medical images with unprecedented accuracy and speed.",
+      "error_rate": 0.4,
+      "corrupted": "Qrttificiiak intelligdce slgorrithkd arb revlputionnisivgg hewlthdafu diagnnpsrjcs by anlazig mddical imagl wit ujprrcedeenyeb pccuoact andd epeek.",
+      "translation": "Qrttificiiak intelligdce slgorrithkd arb revlputionnisivgg hewlthdafu diagnnpsrjcs by",
+      "cosine_distance": 0.8813815116882324,
+      "euclidean_distance": 1.327690839767456,
+      "word_count": 16
+    },
+    {
+      "sentence_id": 4,
+      "original": "Artificial intelligence algorithms are revolutionizing healthcare diagnostics by analyzing medical images with unprecedented accuracy and speed.",
+      "error_rate": 0.45,
+      "corrupted": "Arttinicisll knqeokiggence qlgorogms wre rwvvoluutiiiziing heaapthcagw dkainsticcs by aaalyrinny eiccal imaoe wiith inpgejdeented acuecy snd seed.",
+      "translation": "Arttinicisll knqeokiggence qlgorogms wre rwvvoluutiiiziing heaapthcagw dkainsticcs by",
+      "cosine_distance": 0.8762611150741577,
+      "euclidean_distance": 1.3238285779953003,
+      "word_count": 16
+    },
+    {
+      "sentence_id": 4,
+      "original": "Artificial intelligence algorithms are revolutionizing healthcare diagnostics by analyzing medical images with unprecedented accuracy and speed.",
+      "error_rate": 0.5,
+      "corrupted": "Artuffkdiak imtrlpigeejcce qogjrritmms aree rrvolugulbiiziing hltxard cagmostccs by malyzinnt mediiccaal imqgrss wwithh uunnprrekedsnter acay end sppree.",
+      "translation": "Artuffkdiak imtrlpigeejcce qogjrritmms aree rrvolugulbiiziing hltxard cagmostccs by",
+      "cosine_distance": 0.9155479669570923,
+      "euclidean_distance": 1.3531798124313354,
+      "word_count": 16
+    },
+    {
+      "sentence_id": 5,
+      "original": "The new quantum computer prototype demonstrates significant improvements in processing complex mathematical calculations efficiently and reliably.",
+      "error_rate": 0.0,
+      "corrupted": "The new quantum computer prototype demonstrates significant improvements in processing complex mathematical calculations efficiently and reliably.",
+      "translation": "The new quantum computer prototype demonstrates significant improvements in processing complex mathematical calculations efficiently and reliably.",
+      "cosine_distance": 0.0,
+      "euclidean_distance": 0.0,
+      "word_count": 16
+    },
+    {
+      "sentence_id": 5,
+      "original": "The new quantum computer prototype demonstrates significant improvements in processing complex mathematical calculations efficiently and reliably.",
+      "error_rate": 0.05,
+      "corrupted": "TThe hew quamtum comouter protottype demonsgrates significan improfements in procdssing complrx mathematicsl calcuulations etficiently annd reliabky.",
+      "translation": "TThe hew quamtum comouter protottype demonsgrates significan improfements in procdssing complrx mathematicsl calcuulations etficiently annd reliabky.",
+      "cosine_distance": 0.6703401803970337,
+      "euclidean_distance": 1.1578775644302368,
+      "word_count": 16
+    },
+    {
+      "sentence_id": 5,
+      "original": "The new quantum computer prototype demonstrates significant improvements in processing complex mathematical calculations efficiently and reliably.",
+      "error_rate": 0.1,
+      "corrupted": "Thw nmw qjantum coputer protodype demonstraates signifiant improvementss in ptocessing compkex mahematical calculatiohs efficientlh aand reliabpy.",
+      "translation": "Thw nmw qjantum coputer protodype demonstraates signifiant improvementss in ptocessing compkex mahematical calculatiohs efficientlh aand reliabpy.",
+      "cosine_distance": 0.5141701698303223,
+      "euclidean_distance": 1.0140712261199951,
+      "word_count": 16
+    },
+    {
+      "sentence_id": 5,
+      "original": "The new quantum computer prototype demonstrates significant improvements in processing complex mathematical calculations efficiently and reliably.",
+      "error_rate": 0.15000000000000002,
+      "corrupted": "Ths ew quaantum compkter probotype demonnstrates signifiant imprvements in procbssing clmplex matyematical calculayions eficiently ahd reliaby.",
+      "translation": "Ths ew quaantum compkter probotype demonnstrates signifiant imprvements in procbssing clmplex matyematical calculayions eficiently ahd reliaby.",
+      "cosine_distance": 0.7586040496826172,
+      "euclidean_distance": 1.2317500114440918,
+      "word_count": 16
+    },
+    {
+      "sentence_id": 5,
+      "original": "The new quantum computer prototype demonstrates significant improvements in processing complex mathematical calculations efficiently and reliably.",
+      "error_rate": 0.2,
+      "corrupted": "Tue ndw quanrum cmputer prototyce demoystrayes sibnifficant imlovements in prrpcessing commplex mathemmattical clcylations effumiently anq rdliably.",
+      "translation": "Tue ndw quanrum cmputer prototyce demoystrayes sibnifficant imlovements in prrpcessing commplex maammattical clcylations effumiently anq rdliably.",
+      "cosine_distance": 0.7108458280563354,
+      "euclidean_distance": 1.1923471689224243,
+      "word_count": 16
+    },
+    {
+      "sentence_id": 5,
+      "original": "The new quantum computer prototype demonstrates significant improvements in processing complex mathematical calculations efficiently and reliably.",
+      "error_rate": 0.25,
+      "corrupted": "Te nvw auantum cogzuter urotottype demobsteatex zignificsnt imptovemrntx in oroccessing comlex mathematxa calvulatiodss efficiemtpy afd rriably.",
+      "translation": "Te nvw auantum cogzuter urotottype demobsteatex zignificsnt imptovemrntx in oroccessing comlex maamatxa calvulatiodss efficiemtpy afd rriably.",
+      "cosine_distance": 0.9121237993240356,
+      "euclidean_distance": 1.3506470918655396,
+      "word_count": 16
+    },
+    {
+      "sentence_id": 5,
+      "original": "The new quantum computer prototype demonstrates significant improvements in processing complex mathematical calculations efficiently and reliably.",
+      "error_rate": 0.30000000000000004,
+      "corrupted": "Thn now qusntuz zonputer prootyoe xenonnstrates signgficaantt imprlvrzents in prrocrsxing cokplrx mathemricbl calculvtkonns wfficieenntly ajd relliaby.",
+      "translation": "Thn now qusntuz zonputer prootyoe xenonnstrates signgficaantt imprlvrzents in prrocrsxing cokplrx maamricbl calculvtkonns wfficieenntly ajd relliaby.",
+      "cosine_distance": 0.8798060417175293,
+      "euclidean_distance": 1.3265037536621094,
+      "word_count": 16
+    },
+    {
+      "sentence_id": 5,
+      "original": "The new quantum computer prototype demonstrates significant improvements in processing complex mathematical calculations efficiently and reliably.",
+      "error_rate": 0.35000000000000003,
+      "corrupted": "Thj nee quqntun computiz orroiotype demonsrzrees signikucanr improovenntss in ptpcessingg cimpcex mattheemaaical calcukwfioons efficoenylu ajd reelifblu.",
+      "translation": "Thj nee quqntun computiz orroiotype demonsrzrees signikucanr improovenntss in ptpcessingg cimpcex mataemaaical calcukwfioons efficoenylu ajd reelifblu.",
+      "cosine_distance": 0.9858592748641968,
+      "euclidean_distance": 1.4041788578033447,
+      "word_count": 16
+    },
+    {
+      "sentence_id": 5,
+      "original": "The new quantum computer prototype demonstrates significant improvements in processing complex mathematical calculations efficiently and reliably.",
+      "error_rate": 0.4,
+      "corrupted": "he nsw qunngum ccomptef prroototyie reemlnstraes sggniricanp oprpvementx in lroxewsilg fommplex mlrhemmtcal caxultionns efocienyly amd relrboy.",
+      "translation": "he nsw qunngum ccomptef prroototyie reemlnstraes sggniricanp oprpvementx",
+      "cosine_distance": 0.9626336693763733,
+      "euclidean_distance": 1.3875399827957153,
+      "word_count": 16
+    },
+    {
+      "sentence_id": 5,
+      "original": "The new quantum computer prototype demonstrates significant improvements in processing complex mathematical calculations efficiently and reliably.",
+      "error_rate": 0.45,
+      "corrupted": "TThe nww wuanjm cpmpuuteer prntooyypee sempnnstxktes ssiggnificwnnt immrohmentss in lrocsssinnr cpmlleq maatemkcal ccavulaatipns eftifiehrly ad elmqly.",
+      "translation": "TThe nww wuanjm cpmpuuteer prntooyypee sempnnstxktes ssiggnificwnnt immrohmentss",
+      "cosine_distance": 0.9805755615234375,
+      "euclidean_distance": 1.4004110097885132,
+      "word_count": 16
+    },
+    {
+      "sentence_id": 5,
+      "original": "The new quantum computer prototype demonstrates significant improvements in processing complex mathematical calculations efficiently and reliably.",
+      "error_rate": 0.5,
+      "corrupted": "TThe nei qqntur commpyqr prorltyyppe cempbstage siigffofant ikpptovmenz in pprxchshinf cple mwthmsyicczl alduatilw eckxientl ad riiabl.",
+      "translation": "TThe nei qqntur commpyqr prorltyyppe cempbstage siigffofant ikpptovmenz",
+      "cosine_distance": 0.9342488646507263,
+      "euclidean_distance": 1.3669300079345703,
+      "word_count": 16
+    },
+    {
+      "sentence_id": 6,
+      "original": "Software engineers developed an innovative application that helps students learn programming languages through interactive games and challenges.",
+      "error_rate": 0.0,
+      "corrupted": "Software engineers developed an innovative application that helps students learn programming languages through interactive games and challenges.",
+      "translation": "Software engineers developed an innovative application that helps students learn programming languages through interactive games and challenges.",
+      "cosine_distance": 0.0,
+      "euclidean_distance": 0.0,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 6,
+      "original": "Software engineers developed an innovative application that helps students learn programming languages through interactive games and challenges.",
+      "error_rate": 0.05,
+      "corrupted": "Sftware engineets develpped an innovatve appllication thzt hdlps studenta lern programminv anguages throfgh interactife gwmes ana challvnges.",
+      "translation": "Sftware engineets develpped an innovatve appllication thzt hdlps studenta lern programminv anguages throfgh interactife gwmes ana challvnges.",
+      "cosine_distance": 0.5209578275680542,
+      "euclidean_distance": 1.020742654800415,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 6,
+      "original": "Software engineers developed an innovative application that helps students learn programming languages through interactive games and challenges.",
+      "error_rate": 0.1,
+      "corrupted": "Softwars engineerrs degeloped an innovattive applicayion thdt helpss sudents learx programmming languags thqough interactige gams snd challlenges.",
+      "translation": "Softwars engineerrs degeloped an innovattive applicayion thdt helpss sudents learx programmming languags thqough interactige gams snd challlenges.",
+      "cosine_distance": 0.5054149627685547,
+      "euclidean_distance": 1.0054004192352295,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 6,
+      "original": "Software engineers developed an innovative application that helps students learn programming languages through interactive games and challenges.",
+      "error_rate": 0.15000000000000002,
+      "corrupted": "Aoftware enginneers deveeloped an innovqtive appliration tht hhelps studenti learm protramming languagges thrugh interative fames snd challnges.",
+      "translation": "Aoftware enginneers deveeloped an innovqtive appliration tht hhelps studenti learm protramming languagges thrugh interative fames snd challnges.",
+      "cosine_distance": 0.5641564130783081,
+      "euclidean_distance": 1.0622206926345825,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 6,
+      "original": "Software engineers developed an innovative application that helps students learn programming languages through interactive games and challenges.",
+      "error_rate": 0.2,
+      "corrupted": "oftware enginecrs developes an innvativve aplicatiin tthat heelps sgudents learrn prpgramsing lqnguages thtough intteractioe gayes bnd fhallenfes.",
+      "translation": "oftware enginecrs developes an innvativve aplicatiin tthat heelps sgudents learrn prpgramsing lqnguages thtough intteractioe gayes bnd fhallenfes.",
+      "cosine_distance": 0.7081680297851562,
+      "euclidean_distance": 1.1900992393493652,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 6,
+      "original": "Software engineers developed an innovative application that helps students learn programming languages through interactive games and challenges.",
+      "error_rate": 0.25,
+      "corrupted": "Softwaae ingiheers devwlped an innovswive applicaayion hat hdlps xtudrnts learj plogramminng lanfuges throug knteravtive gamws aand callengee.",
+      "translation": "Softwaae ingiheers devwlped an innovswive applicaayion hat hdlps xtudrnts learj plogramminng lanfuges throug knteravtive gamws a& callengee.",
+      "cosine_distance": 0.8012356162071228,
+      "euclidean_distance": 1.2658876180648804,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 6,
+      "original": "Software engineers developed an innovative application that helps students learn programming languages through interactive games and challenges.",
+      "error_rate": 0.30000000000000004,
+      "corrupted": "Softwuree rgineers deevsloped an onnovqtiive appplkcatio thqt gelps sgndents leearn pogrammmiug anguage tthrrough intnrracsive gamex cnd cnalllengges.",
+      "translation": "Softwuree rgineers deevsloped an onnovqtiive appplkcatio thqt gelps sgndents leearn pogrammmiug anguage tthrrough intnrracsive gamex cnd cnalllengges.",
+      "cosine_distance": 0.6338370442390442,
+      "euclidean_distance": 1.1259102821350098,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 6,
+      "original": "Software engineers developed an innovative application that helps students learn programming languages through interactive games and challenges.",
+      "error_rate": 0.35000000000000003,
+      "corrupted": "Sofiwar ebgiedrs deveeloppd an innoovattvve applitioj thag helpe studdedts learrn programmjiny lanyuqgds ttrough znteradive names annd chhaldnges.",
+      "translation": "Sofiwar ebgiedrs deveeloppd an innoovattvve applitioj thag helpe studdedts learrn programmjiny lanyuqgds ttrough znteradive names annd chhaldnges.",
+      "cosine_distance": 0.6545923948287964,
+      "euclidean_distance": 1.1441961526870728,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 6,
+      "original": "Software engineers developed an innovative application that helps students learn programming languages through interactive games and challenges.",
+      "error_rate": 0.4,
+      "corrupted": "Sctwqre enginnerx deevrlpped an innnovwtir aeicatin tbat hepps stdwts lehwn protrammmohg llanuagen thruggh hgeracive ganees nd chhalllsnes.",
+      "translation": "Sctwqre enginnerx deevrlpped an innnovwtir aeicatin tbat hepps",
+      "cosine_distance": 0.8921242952346802,
+      "euclidean_distance": 1.3357577323913574,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 6,
+      "original": "Software engineers developed an innovative application that helps students learn programming languages through interactive games and challenges.",
+      "error_rate": 0.45,
+      "corrupted": "Jlftwate emgihedzs devoooppwd an inooltiv apllictdln thatt hellls stqdcnte lleaarn progrraqmming oanguaaggrs tooygh onnteracivve amez an czallqbgees.",
+      "translation": "Jlftwate emgihedzs devoooppwd an inooltiv apllictdln thatt hellls",
+      "cosine_distance": 0.7440683841705322,
+      "euclidean_distance": 1.219892144203186,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 6,
+      "original": "Software engineers developed an innovative application that helps students learn programming languages through interactive games and challenges.",
+      "error_rate": 0.5,
+      "corrupted": "Sogarre ehgierv devoopr an imnlatcvr aoppliatuob gat heellps syuudenns teorn loogtmjing llangugg thriuk ihterqcttovd amees an chslosnye.",
+      "translation": "Sogarre ehgierv devoopr an imnlatcvr aoppliatuob gat heellps",
+      "cosine_distance": 0.8755165338516235,
+      "euclidean_distance": 1.3232660293579102,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 7,
+      "original": "The ancient redwood forest ecosystem supports thousands of unique plant and animal species found nowhere else on Earth.",
+      "error_rate": 0.0,
+      "corrupted": "The ancient redwood forest ecosystem supports thousands of unique plant and animal species found nowhere else on Earth.",
+      "translation": "The ancient redwood forest ecosystem supports thousands of unique plant and animal species found nowhere else on Earth.",
+      "cosine_distance": 0.0,
+      "euclidean_distance": 0.0,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 7,
+      "original": "The ancient redwood forest ecosystem supports thousands of unique plant and animal species found nowhere else on Earth.",
+      "error_rate": 0.05,
+      "corrupted": "Tne anciennt redwod orest ecoshstem sjpports thousans of uniqqe nlant ann animwl swecies fourd nowyere qlse on Darth.",
+      "translation": "Tne anciennt redwod orest ecoshstem sjpports thousans of uniqqe nlant ann animwl swecies fourd nowyere qlse on Darth.",
+      "cosine_distance": 0.9372067451477051,
+      "euclidean_distance": 1.3690922260284424,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 7,
+      "original": "The ancient redwood forest ecosystem supports thousands of unique plant and animal species found nowhere else on Earth.",
+      "error_rate": 0.1,
+      "corrupted": "Rhe ancoent fedwood foreat ecoscstem suppors thousand of uniqye plabt aand anima xpecies fouxd nowhee elsw on EEarth.",
+      "translation": "Rhe ancoent fedwood foreat ecoscstem suppors thousand of uniqye plabt aand anima xpecies fouxd nowhee elsw on EEarth.",
+      "cosine_distance": 0.8468724489212036,
+      "euclidean_distance": 1.3014395236968994,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 7,
+      "original": "The ancient redwood forest ecosystem supports thousands of unique plant and animal species found nowhere else on Earth.",
+      "error_rate": 0.15000000000000002,
+      "corrupted": "TThe abcient redood orest ecosyxtem suoports thouands of nnique plany aand anumal sspecies ffound nowhhere epse on Eprth.",
+      "translation": "TThe abcient redood orest ecosyxtem suoports thouands of nnique plany aand anumal sspecies ffound nowhhere epse on Eprth.",
+      "cosine_distance": 0.9678711295127869,
+      "euclidean_distance": 1.3913094997406006,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 7,
+      "original": "The ancient redwood forest ecosystem supports thousands of unique plant and animal species found nowhere else on Earth.",
+      "error_rate": 0.2,
+      "corrupted": "Thhe hncient rredwood qorest eosystem supporrts thosands of uniwue plaht ans snimal spexies fiund nowhery elde on Eartth.",
+      "translation": "Thhe hncient rredwood qorest eosystem supporrts thos&s of uniwue plaht ans snimal spexies fiund nowhery elde on Eartth.",
+      "cosine_distance": 0.8527497053146362,
+      "euclidean_distance": 1.3059476613998413,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 7,
+      "original": "The ancient redwood forest ecosystem supports thousands of unique plant and animal species found nowhere else on Earth.",
+      "error_rate": 0.25,
+      "corrupted": "Te ancint redwogd firest cosywtem sjpports thounds of ufique plamt qnd amimal spcies founv nowere ele on Earrth.",
+      "translation": "Te ancint redwogd firest cosywtem sjpports thounds of ufique plamt qnd amimal spcies founv nowere ele on Earrth.",
+      "cosine_distance": 1.0457178354263306,
+      "euclidean_distance": 1.4461796283721924,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 7,
+      "original": "The ancient redwood forest ecosystem supports thousands of unique plant and animal species found nowhere else on Earth.",
+      "error_rate": 0.30000000000000004,
+      "corrupted": "Thw anckeht rwdwhod fores ecosysstm sippports tbousanrs of uniique lant nnd ajimal apscies oound nosheere elsr on Eartg.",
+      "translation": "Thw anckeht rwdwhod fores ecosysstm sippports tbousanrs of uniique lant nnd ajimal apscies oound nosheere elsr on Eartg.",
+      "cosine_distance": 0.8978695273399353,
+      "euclidean_distance": 1.3400518894195557,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 7,
+      "original": "The ancient redwood forest ecosystem supports thousands of unique plant and animal species found nowhere else on Earth.",
+      "error_rate": 0.35000000000000003,
+      "corrupted": "Rhe bhcient rlewood fordzt ecodrsstem siports hmusandds of bique plznt aand animqd ssoecies fouqd nowre elsi on Eattp.",
+      "translation": "Rhe bhcient rlewood fordzt ecodrsstem siports hmus&ds of bique plznt a& animqd ssoecies fouqd nowre elsi on Eattp.",
+      "cosine_distance": 0.9500395059585571,
+      "euclidean_distance": 1.3784334659576416,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 7,
+      "original": "The ancient redwood forest ecosystem supports thousands of unique plant and animal species found nowhere else on Earth.",
+      "error_rate": 0.4,
+      "corrupted": "Te ancieenr redooy fonesy ecosysrvk xupplrgs toousans of uniuee laet wnd andmwl speeciex dounnd npwhere wlse on Eaafth.",
+      "translation": "Te ancieenr redooy fonesy ecosysrvk xupplrgs toousans of uniuee",
+      "cosine_distance": 0.9418839812278748,
+      "euclidean_distance": 1.3725042343139648,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 7,
+      "original": "The ancient redwood forest ecosystem supports thousands of unique plant and animal species found nowhere else on Earth.",
+      "error_rate": 0.45,
+      "corrupted": "Te kcien reddwpsd foeesv ecoydwm suplirtts tthtusajdu of unqje olwnt ind vnymal suwcied func nnowyer elsse on Eatthh.",
+      "translation": "Te kcien reddwpsd foeesv ecoydwm suplirtts tthtusajdu of unqje",
+      "cosine_distance": 0.9297794103622437,
+      "euclidean_distance": 1.3636564016342163,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 7,
+      "original": "The ancient redwood forest ecosystem supports thousands of unique plant and animal species found nowhere else on Earth.",
+      "error_rate": 0.5,
+      "corrupted": "Th ajaiient rrdwlox rwtest evlsysydm auppltss tgoumznss of mniwde poamt akd anknwl sspgciies flunnd nuwwhsre eelss on Eaarfr.",
+      "translation": "Th ajaiient rrdwlox rwtest evlsysydm auppltss tgoumznss of mniwde",
+      "cosine_distance": 0.9107693433761597,
+      "euclidean_distance": 1.3496439456939697,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 8,
+      "original": "Marine biologists observed fascinating behaviors in dolphin pods communicating through sophisticated patterns of clicks and whistles underwater.",
+      "error_rate": 0.0,
+      "corrupted": "Marine biologists observed fascinating behaviors in dolphin pods communicating through sophisticated patterns of clicks and whistles underwater.",
+      "translation": "Marine biologists observed fascinating behaviors in dolphin pods communicating through sophisticated patterns of clicks and whistles underwater.",
+      "cosine_distance": 0.0,
+      "euclidean_distance": 0.0,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 8,
+      "original": "Marine biologists observed fascinating behaviors in dolphin pods communicating through sophisticated patterns of clicks and whistles underwater.",
+      "error_rate": 0.05,
+      "corrupted": "Marrine biiologists oaserved fqscinating behavioors in dolplin pids communicaying thiough solhisticated patternss of cliks nd whistlss undeerwater.",
+      "translation": "Marrine biiologists oaserved fqscinating behavioors in dolplin pids communicaying thiough solhisticated patternss of cliks nd whistlss undeerwater.",
+      "cosine_distance": 0.6918943524360657,
+      "euclidean_distance": 1.1763454675674438,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 8,
+      "original": "Marine biologists observed fascinating behaviors in dolphin pods communicating through sophisticated patterns of clicks and whistles underwater.",
+      "error_rate": 0.1,
+      "corrupted": "Jarine biologista obserrved fascimating beeaviors in dplphin pbds communicatinb throuph sophisicated pattrns of cliks an whistoes underwwter.",
+      "translation": "Jarine biologista obserrved fascimating beeaviors in dplphin pbds communicatinb throuph sophisicated pattrns of cliks an whistoes underwwter.",
+      "cosine_distance": 0.7308379411697388,
+      "euclidean_distance": 1.2089979648590088,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 8,
+      "original": "Marine biologists observed fascinating behaviors in dolphin pods communicating through sophisticated patterns of clicks and whistles underwater.",
+      "error_rate": 0.15000000000000002,
+      "corrupted": "Marime biologksts obsetved fasconating beehaviors in dolphih poxs communicaging jhrough sophisticates patteens of xlicks nd whistlrs underwatzr.",
+      "translation": "Marime biologksts obsetved fasconating beehaviors in dolphih poxs communicaging jhrough sophisticates patteens of xlicks nd whistlrs underwatzr.",
+      "cosine_distance": 0.6338958740234375,
+      "euclidean_distance": 1.125962734222412,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 8,
+      "original": "Marine biologists observed fascinating behaviors in dolphin pods communicating through sophisticated patterns of clicks and whistles underwater.",
+      "error_rate": 0.2,
+      "corrupted": "Mqrine ruologists observef fasciinatung behaviirs in dolphinn podds cogmunicaying throough sophiswicayed patternss of cicks anr whkstles unrefwater.",
+      "translation": "Mqrine ruologists observef fasciinatung behaviirs in dolphinn podds cogmunicaying throough sophiswicayed patternss of cicks anr whkstles unrefwater.",
+      "cosine_distance": 0.39405524730682373,
+      "euclidean_distance": 0.8877559304237366,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 8,
+      "original": "Marine biologists observed fascinating behaviors in dolphin pods communicating through sophisticated patterns of clicks and whistles underwater.",
+      "error_rate": 0.25,
+      "corrupted": "Karine biokogistd observvex fascinatungg bzhaiors in ddolphin poods communocatune tthrough sopphisticaatted ppatteens of cicks an whisjls dndrwater.",
+      "translation": "Karine biokogistd observvex fascinatungg bzhaiors in ddolphin poods communocatune tthrough sopphisticaatted ppatteens of cicks an whisjls dndrwater.",
+      "cosine_distance": 0.7559896111488342,
+      "euclidean_distance": 1.2296257019042969,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 8,
+      "original": "Marine biologists observed fascinating behaviors in dolphin pods communicating through sophisticated patterns of clicks and whistles underwater.",
+      "error_rate": 0.30000000000000004,
+      "corrupted": "Narine iolpgests ogservec faxccznating behzvkors in dollhi podds czmmunictwng tthroubh ssophistticqted patttens of cclicks nd whhistes unddsewater.",
+      "translation": "Narine iolpgests ogservec faxccznating behzvkors in dollhi podds czmmunictwng tthroubh ssophistticqted patttens of cclicks nd whhistes unddsewater.",
+      "cosine_distance": 0.6934683322906494,
+      "euclidean_distance": 1.1776827573776245,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 8,
+      "original": "Marine biologists observed fascinating behaviors in dolphin pods communicating through sophisticated patterns of clicks and whistles underwater.",
+      "error_rate": 0.35000000000000003,
+      "corrupted": "Mwfine biolphihts ogsdrved faasciatinng bejavuoors in colphib pds commujicwyinng tthrouugh sophittivwtd pattwrnns of coick ajd whistez undrrlateer.",
+      "translation": "Mwfine biolphihts ogsdrved faasciatinng bejavuoors in colphib pds commujicwyinng tthrouugh sophittivwtd pattwrnns of coick ajd whistez undrrlateer.",
+      "cosine_distance": 0.8746572732925415,
+      "euclidean_distance": 1.3226165771484375,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 8,
+      "original": "Marine biologists observed fascinating behaviors in dolphin pods communicating through sophisticated patterns of clicks and whistles underwater.",
+      "error_rate": 0.4,
+      "corrupted": "Matime boyoogiists obnefced fasdinqyimg ehavibrss in dolkin poes commmunivtinni tgrogh sgphistkcaees pagerjs of cclick an whistllsss unerrer.",
+      "translation": "Matime boyoogiists obnefced fasdinqyimg ehavibrss in dolkin poes",
+      "cosine_distance": 0.9110230803489685,
+      "euclidean_distance": 1.3498319387435913,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 8,
+      "original": "Marine biologists observed fascinating behaviors in dolphin pods communicating through sophisticated patterns of clicks and whistles underwater.",
+      "error_rate": 0.45,
+      "corrupted": "Mare biooogsyss oiservr fpwdinatinng bejaaios in dlphiinn poss fommuunictdhg ohroighh solhhosticatdr pattqerfs of xlicts nd whuslis umddwfwater.",
+      "translation": "Mare biooogsyss oiservr fpwdinatinng bejaaios in dlphiinn poss",
+      "cosine_distance": 0.7606527805328369,
+      "euclidean_distance": 1.233412265777588,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 8,
+      "original": "Marine biologists observed fascinating behaviors in dolphin pods communicating through sophisticated patterns of clicks and whistles underwater.",
+      "error_rate": 0.5,
+      "corrupted": "Mnridd xkopofistts oarrve ascknaib behhsvos in dolh ppors coommuuiftijg troygy sphittecayef pptterrgs of pxcks amd whgsstye jndwatrq.",
+      "translation": "Mnridd xkopofistts oarrve ascknaib behhsvos in dolh ppors",
+      "cosine_distance": 0.878410816192627,
+      "euclidean_distance": 1.3254514932632446,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 9,
+      "original": "Climate researchers monitor glacial melting rates in Antarctica to better understand long-term environmental changes and their impacts.",
+      "error_rate": 0.0,
+      "corrupted": "Climate researchers monitor glacial melting rates in Antarctica to better understand long-term environmental changes and their impacts.",
+      "translation": "Climate researchers monitor glacial melting rates in Antarctica to better understand long-term environmental changes and their impacts.",
+      "cosine_distance": 0.0,
+      "euclidean_distance": 0.0,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 9,
+      "original": "Climate researchers monitor glacial melting rates in Antarctica to better understand long-term environmental changes and their impacts.",
+      "error_rate": 0.05,
+      "corrupted": "CClimate resarchers minitor glaciaal mlting rrates in Antactica to beyter ynderstand long-tera environmentay changees ad thheir impaccts.",
+      "translation": "CClimate resarchers minitor glaciaal mlting rrates in Antactica to beyter ynderstand long-tera environmentay changees ad thheir impaccts.",
+      "cosine_distance": 0.8682476282119751,
+      "euclidean_distance": 1.3177614212036133,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 9,
+      "original": "Climate researchers monitor glacial melting rates in Antarctica to better understand long-term environmental changes and their impacts.",
+      "error_rate": 0.1,
+      "corrupted": "Clumate researcherr monitof glaxial mmelting fates in Antarcticw to bdtter unverstand long-tetm eivironmental changei ans theirr ipacts.",
+      "translation": "Clumate researcherr monitof glaxial mmelting fates in Antarcticw to bdtter unverstand long-tetm eivironmental changei ans theirr ipacts.",
+      "cosine_distance": 0.49310213327407837,
+      "euclidean_distance": 0.9930782318115234,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 9,
+      "original": "Climate researchers monitor glacial melting rates in Antarctica to better understand long-term environmental changes and their impacts.",
+      "error_rate": 0.15000000000000002,
+      "corrupted": "Climte reseearchers monior glaciall meltimg raates in Antrctica to bettter unferstand long-terj environmeental chanves andd thir impasts.",
+      "translation": "Climte reseearchers monior glaciall meltimg raates in Antrctica to bettter unferstand long-terj environmeental chanves andd thir impasts.",
+      "cosine_distance": 0.5999506711959839,
+      "euclidean_distance": 1.095400094985962,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 9,
+      "original": "Climate researchers monitor glacial melting rates in Antarctica to better understand long-term environmental changes and their impacts.",
+      "error_rate": 0.2,
+      "corrupted": "Ulimate ressrchers monitr glacian mwlting tates in Qnrarctica to bette undwustand lng-term environnental chahges anm sheir immpacts.",
+      "translation": "Ulimate ressrchers monitr glacian mwlting tates in Qnrarctica to bette undwust& lng-term environnental chahges anm sheir immpacts.",
+      "cosine_distance": 0.9300856590270996,
+      "euclidean_distance": 1.36388099193573,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 9,
+      "original": "Climate researchers monitor glacial melting rates in Antarctica to better understand long-term environmental changes and their impacts.",
+      "error_rate": 0.25,
+      "corrupted": "Climat reserchecs ponitor glaacial meltink ates in Antlkctica to bemter qndersuand bong-terj ensironmetam chances znd thqir impzcrs.",
+      "translation": "Climat reserchecs ponitor glaacial meltink ates in Antlkctica to bemter qndersu& bong-terj ensironmetam chances znd thqir impzcrs.",
+      "cosine_distance": 0.8580925464630127,
+      "euclidean_distance": 1.3100324869155884,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 9,
+      "original": "Climate researchers monitor glacial melting rates in Antarctica to better understand long-term environmental changes and their impacts.",
+      "error_rate": 0.30000000000000004,
+      "corrupted": "Climmatr reseswchrrs mnitgr glscial mmeltinv ratess in AAnttarctoca to betrer nverstwnd oong-tefm wnvironeental chajles annd thwir ipacta.",
+      "translation": "Climmatr reseswchrrs mnitgr glscial mmeltinv ratess in AAnttarctoca to betrer nverstwnd oong-tefm wnvironeental chajles annd thwir ipacta.",
+      "cosine_distance": 0.9430579543113708,
+      "euclidean_distance": 1.3733594417572021,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 9,
+      "original": "Climate researchers monitor glacial melting rates in Antarctica to better understand long-term environmental changes and their impacts.",
+      "error_rate": 0.35000000000000003,
+      "corrupted": "Cluate rwsesrcherc mojitlr glciall mektins rate in Anarrctics to yetterr undrrtamd lonn-twrn nvoronmsktal hangeo an thir impsctc.",
+      "translation": "Cluate rwsesrcherc mojitlr glciall mektins rate in Anarrctics to yetterr undrrtamd lonn-twrn nvoronmsktal hangeo an thir impsctc.",
+      "cosine_distance": 1.0101032257080078,
+      "euclidean_distance": 1.421339750289917,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 9,
+      "original": "Climate researchers monitor glacial melting rates in Antarctica to better understand long-term environmental changes and their impacts.",
+      "error_rate": 0.4,
+      "corrupted": "CClimaje researahhetss mfnittor glafcal meljinz rayss in Antaktiu to bertrr unxyfstan png-termm eenvirojenrgl cchanres ahd tubir imlaactu.",
+      "translation": "CClimaje researahhetss mfnittor glafcal meljinz rayss in Antaktiu",
+      "cosine_distance": 0.9351868629455566,
+      "euclidean_distance": 1.367616057395935,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 9,
+      "original": "Climate researchers monitor glacial melting rates in Antarctica to better understand long-term environmental changes and their impacts.",
+      "error_rate": 0.45,
+      "corrupted": "Xlimstte uesaechrs fnutor gzsial mmmltkng rayees in Antjrtfca to betpee jnderan bobg-teer enviifunmmentxl chahness annd tzei onpacts.",
+      "translation": "Xlimstte uesaechrs fnutor gzsial mmmltkng rayees in Antjrtfca",
+      "cosine_distance": 0.9293980002403259,
+      "euclidean_distance": 1.3633767366409302,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 9,
+      "original": "Climate researchers monitor glacial melting rates in Antarctica to better understand long-term environmental changes and their impacts.",
+      "error_rate": 0.5,
+      "corrupted": "CClimwge reeaechrs monnoror gllacqwl neltug roges in Quyarctidq to etrr undsrrayafd kim-term snfiownmenntsl chngrs ajd tjwir iimpqdtss.",
+      "translation": "CClimwge reeaechrs monnoror gllacqwl neltug roges in Quyarctidq",
+      "cosine_distance": 0.9807201623916626,
+      "euclidean_distance": 1.4005143642425537,
+      "word_count": 17
+    },
+    {
+      "sentence_id": 10,
+      "original": "Archaeological excavations revealed intricate Roman mosaics and artifacts that provide insights into daily life two thousand years ago.",
+      "error_rate": 0.0,
+      "corrupted": "Archaeological excavations revealed intricate Roman mosaics and artifacts that provide insights into daily life two thousand years ago.",
+      "translation": "Archaeological excavations revealed intricate Roman mosaics and artifacts that provide insights into daily life two thousand years ago.",
+      "cosine_distance": 0.0,
+      "euclidean_distance": 0.0,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 10,
+      "original": "Archaeological excavations revealed intricate Roman mosaics and artifacts that provide insights into daily life two thousand years ago.",
+      "error_rate": 0.05,
+      "corrupted": "Archaeoological dxcavations revaled intrivate Romcn kosaics qnd argifacts tbat peovide nsights innto raily lif ywo thgusand yeafs ag.",
+      "translation": "Archaeoological dxcavations revaled intrivate Romcn kosaics qnd argifacts tbat peovide nsights innto raily lif ywo thgusand yeafs ag.",
+      "cosine_distance": 0.612507700920105,
+      "euclidean_distance": 1.1068041324615479,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 10,
+      "original": "Archaeological excavations revealed intricate Roman mosaics and artifacts that provide insights into daily life two thousand years ago.",
+      "error_rate": 0.1,
+      "corrupted": "Archaeologicaal excavitions revealwd intricaye Romann mosqics ald artiifacts tat provids innsights innto dzily lif tno housand yeafs zgo.",
+      "translation": "Archaeologicaal excavitions revealwd intricaye Romann mosqics ald artiifacts tat provids innsights innto dzily lif tno housand yeafs zgo.",
+      "cosine_distance": 0.44806063175201416,
+      "euclidean_distance": 0.9466368556022644,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 10,
+      "original": "Archaeological excavations revealed intricate Roman mosaics and artifacts that provide insights into daily life two thousand years ago.",
+      "error_rate": 0.15000000000000002,
+      "corrupted": "Arcpaeologcal excavationx revaled intricte Rman mosaiccs andd artifats tthat providee onsights intto dqily lift ttwo tthousand yars aggo.",
+      "translation": "Arcpaeologcal excavationx revaled intricte Rman mosaiccs andd artifats tthat providee onsights intto dqily lift ttwo tthousand yars aggo.",
+      "cosine_distance": 0.5734275579452515,
+      "euclidean_distance": 1.070913314819336,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 10,
+      "original": "Archaeological excavations revealed intricate Roman mosaics and artifacts that provide insights into daily life two thousand years ago.",
+      "error_rate": 0.2,
+      "corrupted": "Archseolgical wxcvations revealqd intricqte Romah mosaiccs annd articacts tht privide insiights intt caily liffe twwo rhousand yeaars abo.",
+      "translation": "Archseolgical wxcvations revealqd intricqte Romah mosaiccs annd articacts tht privide insiights intt caily liffe twwo rhous& yeaars abo.",
+      "cosine_distance": 0.6286625862121582,
+      "euclidean_distance": 1.121304988861084,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 10,
+      "original": "Archaeological excavations revealed intricate Roman mosaics and artifacts that provide insights into daily life two thousand years ago.",
+      "error_rate": 0.25,
+      "corrupted": "Arharologicaal excafations rveale intriccaue Romah moosaics wnd arrtiacts ahat orovide ibights ino dailly ife tso hounand yeafs go.",
+      "translation": "Arharologicaal excafations rveale intriccaue Romah moosaics wnd arrtiacts ahat orovide ibights ino dailly ife tso houn& yeafs go.",
+      "cosine_distance": 0.8215566277503967,
+      "euclidean_distance": 1.2818398475646973,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 10,
+      "original": "Archaeological excavations revealed intricate Roman mosaics and artifacts that provide insights into daily life two thousand years ago.",
+      "error_rate": 0.30000000000000004,
+      "corrupted": "Wrcaelugical rxaavations revealeedd qnpricate Foman mosaacs ans artifacttz xhat proviee ibsigghts int saily lifw twwo twousanf yearw agi.",
+      "translation": "Wrcaelugical rxaavations revealeedd qnpricate Foman mosaacs ans artifacttz xhat proviee ibsigghts int saily lifw twwo twousanf yearw agi.",
+      "cosine_distance": 0.7041680812835693,
+      "euclidean_distance": 1.186733365058899,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 10,
+      "original": "Archaeological excavations revealed intricate Roman mosaics and artifacts that provide insights into daily life two thousand years ago.",
+      "error_rate": 0.35000000000000003,
+      "corrupted": "AArchaeoloblcql excavatnobh rreveald innricaae Ronan moosaicw znd hrtifqcrs tat proxidee insigha ijto davly lifw twi thooysand ears ato.",
+      "translation": "AArchaeoloblcql excavatnobh rreveald innricaae Ronan moosaicw znd hrtifqcrs tat proxidee insigha ijto davly lifw twi thooys& ears ato.",
+      "cosine_distance": 0.870021641254425,
+      "euclidean_distance": 1.3191070556640625,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 10,
+      "original": "Archaeological excavations revealed intricate Roman mosaics and artifacts that provide insights into daily life two thousand years ago.",
+      "error_rate": 0.4,
+      "corrupted": "AAdhapoloyical ezcavaioza fwfealed iatrcaate Romqb mopais annd artiifcta tha pproide inwigltss inho dwiily lfe tqo yhhousand yezfs go.",
+      "translation": "AAdhapoloyical ezcavaioza fwfealed iatrcaate Romqb mopais annd artiifcta tha",
+      "cosine_distance": 0.8732798099517822,
+      "euclidean_distance": 1.3215746879577637,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 10,
+      "original": "Archaeological excavations revealed intricate Roman mosaics and artifacts that provide insights into daily life two thousand years ago.",
+      "error_rate": 0.45,
+      "corrupted": "Wrcyaolohicaa eexcsvqtiens rrvealsd inntriicwre Fooman missocs wnd attiffaccs thaat rofide insiigjtx intto xaiily llife tw houusajd teaus dgo.",
+      "translation": "Wrcyaolohicaa eexcsvqtiens rrvealsd inntriicwre Fooman missocs wnd attiffaccs thaat",
+      "cosine_distance": 0.8134269714355469,
+      "euclidean_distance": 1.275481939315796,
+      "word_count": 18
+    },
+    {
+      "sentence_id": 10,
+      "original": "Archaeological excavations revealed intricate Roman mosaics and artifacts that provide insights into daily life two thousand years ago.",
+      "error_rate": 0.5,
+      "corrupted": "Aechaooicq eexcaevion revvwped ihriccage Rommann mossaakcs ad wttifatts jhatt orividee wnnskgkts iggo railyy eifee twoo whhousannp yezts mg.",
+      "translation": "Aechaooicq eexcaevion revvwped ihriccage Rommann mossaakcs ad wttifatts jhatt",
+      "cosine_distance": 0.78401780128479,
+      "euclidean_distance": 1.2522122859954834,
+      "word_count": 18
+    }
+  ],
+  "metadata": {
+    "export_timestamp": "2025-11-22T18:23:11.288660",
+    "num_records": 110,
+    "format_version": "1.0"
+  }
+}

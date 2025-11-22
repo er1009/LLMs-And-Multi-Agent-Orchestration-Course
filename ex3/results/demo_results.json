@@ -1,0 +1,41 @@
+{
+  "results": [
+    {
+      "label": "No errors (baseline)",
+      "error_rate": 0.0,
+      "original": "The quick brown fox jumps over the lazy dog and rests peacefully under a tree",
+      "translation": "The quick brown fox jumps over the lazy dog and rests peacefully under a tree",
+      "cosine_distance": 0.0,
+      "euclidean_distance": 0.0
+    },
+    {
+      "label": "Minor changes",
+      "error_rate": 0.1,
+      "original": "The quick brown fox jumps over the lazy dog and rests peacefully under a tree",
+      "translation": "The fast brown fox leaps over the sleepy dog and rests quietly under a tree",
+      "cosine_distance": 0.11744570732116699,
+      "euclidean_distance": 0.48465612530708313
+    },
+    {
+      "label": "Moderate changes",
+      "error_rate": 0.2,
+      "original": "The quick brown fox jumps over the lazy dog and rests peacefully under a tree",
+      "translation": "A quick brown fox jumps across the lazy dog resting peacefully beneath the tree",
+      "cosine_distance": 0.03827488422393799,
+      "euclidean_distance": 0.2766765356063843
+    },
+    {
+      "label": "Significant changes",
+      "error_rate": 0.3,
+      "original": "The quick brown fox jumps over the lazy dog and rests peacefully under a tree",
+      "translation": "The swift fox jumped over a dog and slept under the big tree",
+      "cosine_distance": 0.34088242053985596,
+      "euclidean_distance": 0.8256905674934387
+    }
+  ],
+  "metadata": {
+    "export_timestamp": "2025-11-22T18:16:07.416746",
+    "num_records": 4,
+    "format_version": "1.0"
+  }
+}

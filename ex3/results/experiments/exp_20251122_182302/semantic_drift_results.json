@@ -1,0 +1,57 @@
+{
+  "results": [
+    {
+      "scenario": "Perfect (0% drift)",
+      "error_rate": 0.0,
+      "original": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+      "translation": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+      "cosine_distance": 0.0,
+      "euclidean_distance": 0.0
+    },
+    {
+      "scenario": "Minor synonyms (10% drift)",
+      "error_rate": 0.1,
+      "original": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+      "translation": "Scientists found a amazing new species of butterfly in the remote Amazon rainforest during their journey last year.",
+      "cosine_distance": 0.03555375337600708,
+      "euclidean_distance": 0.26666030287742615
+    },
+    {
+      "scenario": "Moderate paraphrasing (25% drift)",
+      "error_rate": 0.25,
+      "original": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+      "translation": "Researchers found an incredible butterfly species that was new in the Amazon forest during last year's exploration.",
+      "cosine_distance": 0.06396615505218506,
+      "euclidean_distance": 0.3576764166355133
+    },
+    {
+      "scenario": "Significant rewording (40% drift)",
+      "error_rate": 0.4,
+      "original": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+      "translation": "A team of scientists identified a unique butterfly type in the remote jungles of the Amazon basin.",
+      "cosine_distance": 0.18879932165145874,
+      "euclidean_distance": 0.6144905090332031
+    },
+    {
+      "scenario": "Major changes (60% drift)",
+      "error_rate": 0.6,
+      "original": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+      "translation": "New butterfly was seen by research people in the big forest in South America one year ago.",
+      "cosine_distance": 0.24619245529174805,
+      "euclidean_distance": 0.7017015218734741
+    },
+    {
+      "scenario": "Completely different (90% drift)",
+      "error_rate": 0.9,
+      "original": "Scientists discovered a remarkable new species of butterfly in the remote Amazon rainforest during their expedition last year.",
+      "translation": "The weather forecast predicts sunny conditions with temperatures reaching twenty degrees celsius throughout the entire coastal region today.",
+      "cosine_distance": 0.9872412085533142,
+      "euclidean_distance": 1.4051628112792969
+    }
+  ],
+  "metadata": {
+    "export_timestamp": "2025-11-22T18:23:11.290061",
+    "num_records": 6,
+    "format_version": "1.0"
+  }
+}

@@ -1,0 +1,5 @@
+label,error_rate,original,translation,cosine_distance,euclidean_distance
+No errors (baseline),0.0,The quick brown fox jumps over the lazy dog and rests peacefully under a tree,The quick brown fox jumps over the lazy dog and rests peacefully under a tree,0.0,0.0
+Minor changes,0.1,The quick brown fox jumps over the lazy dog and rests peacefully under a tree,The fast brown fox leaps over the sleepy dog and rests quietly under a tree,0.11744570732116699,0.48465612530708313
+Moderate changes,0.2,The quick brown fox jumps over the lazy dog and rests peacefully under a tree,A quick brown fox jumps across the lazy dog resting peacefully beneath the tree,0.03827488422393799,0.2766765356063843
+Significant changes,0.3,The quick brown fox jumps over the lazy dog and rests peacefully under a tree,The swift fox jumped over a dog and slept under the big tree,0.34088242053985596,0.8256905674934387

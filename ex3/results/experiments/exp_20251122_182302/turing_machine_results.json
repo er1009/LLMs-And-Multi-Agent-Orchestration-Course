@@ -1,0 +1,86 @@
+[
+  {
+    "machine": "unary_increment",
+    "input": "1",
+    "output": "11",
+    "steps": 3,
+    "halted": true
+  },
+  {
+    "machine": "unary_increment",
+    "input": "11",
+    "output": "111",
+    "steps": 4,
+    "halted": true
+  },
+  {
+    "machine": "unary_increment",
+    "input": "111",
+    "output": "1111",
+    "steps": 5,
+    "halted": true
+  },
+  {
+    "machine": "unary_increment",
+    "input": "1111",
+    "output": "11111",
+    "steps": 6,
+    "halted": true
+  },
+  {
+    "machine": "unary_increment",
+    "input": "11111",
+    "output": "111111",
+    "steps": 7,
+    "halted": true
+  },
+  {
+    "machine": "binary_increment",
+    "input": "0",
+    "output": "1",
+    "steps": 3,
+    "halted": true
+  },
+  {
+    "machine": "binary_increment",
+    "input": "1",
+    "output": "10",
+    "steps": 5,
+    "halted": true
+  },
+  {
+    "machine": "binary_increment",
+    "input": "10",
+    "output": "11",
+    "steps": 4,
+    "halted": true
+  },
+  {
+    "machine": "binary_increment",
+    "input": "11",
+    "output": "100",
+    "steps": 7,
+    "halted": true
+  },
+  {
+    "machine": "binary_increment",
+    "input": "101",
+    "output": "110",
+    "steps": 6,
+    "halted": true
+  },
+  {
+    "machine": "binary_increment",
+    "input": "111",
+    "output": "1000",
+    "steps": 9,
+    "halted": true
+  },
+  {
+    "machine": "binary_increment",
+    "input": "1111",
+    "output": "10000",
+    "steps": 11,
+    "halted": true
+  }
+]
