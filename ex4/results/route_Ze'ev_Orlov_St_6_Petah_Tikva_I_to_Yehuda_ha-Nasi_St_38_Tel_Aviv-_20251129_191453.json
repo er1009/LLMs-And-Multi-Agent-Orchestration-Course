@@ -1,0 +1,51 @@
+{
+  "source": "Ze'ev Orlov St 6, Petah Tikva, Israel",
+  "destination": "Yehuda ha-Nasi St 38, Tel Aviv-Yafo, Israel",
+  "stops": [
+    {
+      "address": "Continue onto Exit to Tikva Interchange",
+      "choice": {
+        "type": "music",
+        "title": "Tikva - Idan Raichel",
+        "content": "https://www.youtube.com/watch?v=qfApUkDFZw0",
+        "reason": "The Idan Raichel piece offers a uniquely meaningful connection to this location through its title 'Tikva' (Hope), directly matching the interchange name. The song provides both cultural enrichment and emotional resonance, representing Israel's multicultural character while creating a memorable travel experience that connects the traveler to the deeper meaning of where they are passing through."
+      }
+    },
+    {
+      "address": "Take the ramp onto Route 5",
+      "choice": {
+        "type": "info",
+        "title": "Historic Route 5 - A Classic American Highway",
+        "content": "Route 5 typically refers to major highways that have shaped American transportation history. U.S. Route 5 runs through New England, following the Connecticut River Valley and connecting historic cities from New Haven to the Canadian border. Interstate 5 on the West Coast is one of America's most vital north-south corridors, stretching from Mexico to Canada through California, Oregon, and Washington. These routes have been instrumental in connecting communities and facilitating commerce for nearly a century.\n\nKey Facts:\n• U.S. Route 5 follows ancient Native American trails and colonial pathways along the Connecticut River\n• Interstate 5 passes through major cities including San Diego, Los Angeles, Sacramento, Portland, and Seattle\n• Route 5 designations often follow scenic routes with access to national parks and historic landmarks",
+        "reason": "The historical and factual content provides substantial educational value by explaining the significance of Route 5 designations across America, including both U.S. Route 5 in New England and Interstate 5 on the West Coast. It offers unique context about the route's history, from Native American trails to modern commerce corridors, and highlights major cities and landmarks along the way, making it the most informative and relevant choice for travelers seeking to understand the importance of the route they're traveling on."
+      }
+    },
+    {
+      "address": "Take the exit toward Ayalon Hwy/Route 20",
+      "choice": {
+        "type": "info",
+        "title": "Ayalon Highway - Tel Aviv's Main Artery",
+        "content": "The Ayalon Highway (Route 20) is one of Israel's busiest highways, running through the heart of Tel Aviv-Yafo metropolitan area. Named after the ancient Ayalon River that flows alongside it, this highway has transformed the region's transportation since its construction in the 1960s-1970s. The route follows the path of the historic Ayalon Valley, which has been a strategic corridor since biblical times and witnessed numerous historical battles throughout millennia.\n\nKey Facts:\n• Named after the biblical Ayalon Valley where Joshua commanded the sun to stand still\n• Serves over 300,000 vehicles daily, making it one of Israel's most congested routes\n• Runs parallel to the Ayalon River, which is undergoing extensive ecological restoration\n• Connects Tel Aviv to major highways leading to Jerusalem, Haifa, and Beer Sheva",
+        "reason": "Fallback selection due to choice agent failure"
+      }
+    },
+    {
+      "address": "Take the exit toward Keren Kayemet Le'Israel Blvd",
+      "choice": {
+        "type": "info",
+        "title": "Keren Kayemet Le'Israel (Jewish National Fund) Boulevard",
+        "content": "This route is named after Keren Kayemet Le'Israel (KKL-JNF), the Jewish National Fund established in 1901 to purchase and develop land in Israel. The organization has planted over 250 million trees across Israel since its founding, transforming barren landscapes into forests and parks. KKL-JNF played a crucial role in Israel's afforestation efforts, water management, and ecological restoration, making it one of the most significant environmental organizations in the country's history.\n\nKey Facts:\n• Named after the Jewish National Fund, founded in 1901\n• KKL-JNF has planted over 250 million trees in Israel\n• The organization transformed desert and barren land into thriving forests\n• Continues to manage water resources and environmental projects nationwide",
+        "reason": "The historical content provides comprehensive, educational information about KKL-JNF's transformative impact on Israel's landscape, including specific facts like 250 million trees planted and their role in environmental restoration. While the video offers similar content, the text format delivers immediate, digestible information perfect for a traveler passing through, without requiring them to watch a full documentary."
+      }
+    }
+  ],
+  "metadata": {
+    "total_waypoints": 5,
+    "processed_stops": 4,
+    "total_distance_km": 16.77,
+    "estimated_duration_minutes": 22.0,
+    "processing_time_seconds": 75.11,
+    "timestamp": "2025-11-29T19:14:53.377189",
+    "route_summary": "Route 5"
+  }
+}

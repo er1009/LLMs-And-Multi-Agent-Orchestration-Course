@@ -1,0 +1,60 @@
+{
+  "source": "Tagore St 40, Tel Aviv-Yafo, Israel",
+  "destination": "Yehuda ha-Nasi St 38, Tel Aviv-Yafo, Israel",
+  "stops": [
+    {
+      "address": "Head north toward Tagore St",
+      "choice": {
+        "type": "info",
+        "title": "Tagore Street - Named After Nobel Laureate",
+        "content": "This street is likely named after Rabindranath Tagore (1861-1941), the first non-European Nobel Prize winner in Literature. Tagore was a Bengali polymath who reshaped Bengali literature and music, as well as Indian art with Contextual Modernism. His poetic songs were viewed as spiritual and mercurial, with two of them becoming national anthems for India and Bangladesh. Streets bearing his name are found in cities across India, Singapore, and other countries with significant South Asian heritage.\n\nKey Facts:\n• Named after Nobel Prize winner Rabindranath Tagore (1913)\n• Tagore composed over 2,000 songs and wrote the national anthems of two countries\n• Streets with this name often indicate areas with Bengali or South Asian cultural influence",
+        "reason": "The historical information about Tagore Street provides significant educational value by connecting the traveler to Nobel laureate Rabindranath Tagore's remarkable legacy. This content offers unique cultural context about the street's namesake, his literary achievements, and the South Asian cultural influence in the area, making it more enriching than the available music option which has only general relevance to Singapore."
+      }
+    },
+    {
+      "address": "Turn right onto Tagore St",
+      "choice": {
+        "type": "info",
+        "title": "Tagore Street - Named After a Nobel Laureate",
+        "content": "This street is likely named after Rabindranath Tagore (1861-1941), the first non-European Nobel Prize winner in Literature. Tagore was a Bengali polymath who reshaped Bengali literature and music, as well as Indian art with Contextual Modernism. Streets named after Tagore can be found in various cities around the world, particularly in areas with Indian cultural influence, honoring his contributions to literature, music, and philosophy.\n\nKey Facts:\n• Named after Rabindranath Tagore, Nobel Prize in Literature laureate (1913)\n• Tagore composed the national anthems of both India and Bangladesh\n• Streets bearing his name typically indicate areas with historical Indian cultural connections",
+        "reason": "The historical information provides the most educational value for a traveler on Tagore Street, offering concrete facts about Rabindranath Tagore's significance as a Nobel laureate and his impact on literature and culture. It directly connects the street name to its namesake with key biographical details and explains why streets worldwide honor him, giving travelers meaningful context about their location. While the music option offers an interesting cultural fusion, the historical facts provide more lasting educational value."
+      }
+    },
+    {
+      "address": "At the roundabout, take the 3rd exit and stay on Tagore St",
+      "choice": {
+        "type": "info",
+        "title": "Tagore Street - Named After Nobel Laureate",
+        "content": "This street is likely named after Rabindranath Tagore (1861-1941), the first non-European Nobel Prize winner in Literature. Tagore was a Bengali polymath who reshaped literature and music, as well as Indian art with Contextual Modernism. Streets bearing his name can be found in India, Singapore, and other countries that honor his contributions to literature, philosophy, and the arts.\n\nKey Facts:\n• Named after Nobel Prize winner Rabindranath Tagore\n• Tagore composed the national anthems of both India and Bangladesh\n• His work Gitanjali won the Nobel Prize in Literature in 1913",
+        "reason": "The historical information about Rabindranath Tagore provides direct, meaningful context about the street name that enhances understanding of the location. Learning that Tagore was the first non-European Nobel Prize winner in Literature and composed national anthems for two countries offers substantial educational value that's immediately relevant to someone traveling through this street. While the music option is locally relevant, the informational content delivers more unique and compelling insights about the cultural significance of the street's namesake."
+      }
+    },
+    {
+      "address": "At the roundabout, take the 1st exit onto Arie Pasternak St",
+      "choice": {
+        "type": "music",
+        "title": "Yerushalayim Shel Zahav (Jerusalem of Gold) - Naomi Shemer",
+        "content": "https://www.youtube.com/watch?v=0vLSOJIo6f4",
+        "reason": "While the INFO option provides generic speculation about street naming conventions without specific details about Arie Pasternak himself, the MUSIC option offers a meaningful cultural experience. 'Yerushalayim Shel Zahav' is an iconic Israeli song that creates an emotional connection to the journey and enhances the travel experience with authentic local culture, making it more valuable than generic information or an unrelated documentary video."
+      }
+    },
+    {
+      "address": "Turn right onto Yehuda ha-Nasi StDestination will be on the right",
+      "choice": {
+        "type": "info",
+        "title": "Yehuda ha-Nasi Street - Named After a Historic Jewish Leader",
+        "content": "This street is named after Rabbi Yehuda ha-Nasi (Judah the Prince), one of the most important figures in Jewish history who lived in the 2nd-3rd century CE. Rabbi Yehuda ha-Nasi is renowned for compiling and editing the Mishnah, the first major written collection of Jewish oral traditions, which became the foundation of the Talmud. He served as the leader of the Jewish community in Roman-era Judea and was known for his wisdom, scholarship, and efforts to preserve Jewish law and tradition during a critical period.\n\nKey Facts:\n• Named after Rabbi Yehuda ha-Nasi, compiler of the Mishnah around 200 CE\n• The Mishnah he created remains a cornerstone of Jewish learning and law to this day\n• He was both a spiritual leader and political representative of the Jewish people under Roman rule",
+        "reason": "The historical information provides comprehensive educational value about Rabbi Yehuda ha-Nasi's profound impact on Jewish tradition through compiling the Mishnah. This directly relates to the street name and gives travelers meaningful context about why this figure is honored with a street, making it more valuable than a general video or thematically-related song."
+      }
+    }
+  ],
+  "metadata": {
+    "total_waypoints": 5,
+    "processed_stops": 5,
+    "total_distance_km": 1.04,
+    "estimated_duration_minutes": 4.0,
+    "processing_time_seconds": 91.32,
+    "timestamp": "2025-11-29T19:03:57.746062",
+    "route_summary": "Tagore St"
+  }
+}

@@ -1,0 +1,21 @@
+# Route Guide System - Python Dependencies
+
+# Core dependencies
+requests>=2.31.0
+python-dotenv>=1.0.0
+PyYAML>=6.0.1
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-mock>=3.11.1
+
+# Code quality
+pylint>=2.17.0
+black>=23.7.0
+flake8>=6.1.0
+
+# Optional: for enhanced functionality
+colorama>=0.4.6  # Colored terminal output
+tqdm>=4.66.0  # Progress bars
+reportlab>=4.0.0  # PDF generation for submission

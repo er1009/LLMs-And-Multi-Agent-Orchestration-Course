@@ -1,0 +1,64 @@
+# Route Guide System Configuration
+
+# API Configuration
+api:
+  google_maps:
+    timeout: 10  # seconds
+    max_retries: 3
+    retry_delay: 1  # seconds
+
+  claude:
+    timeout: 30  # seconds
+    max_retries: 2
+    retry_delay: 2  # seconds
+    cli_command: "claude"  # Command to invoke Claude CLI
+
+# Agent Configuration
+agents:
+  video:
+    enabled: true
+    weight: 1.0  # For choice agent scoring
+    timeout: 30
+
+  music:
+    enabled: true
+    weight: 1.0
+    timeout: 30
+
+  info:
+    enabled: true
+    weight: 1.2  # Slightly prefer educational content
+    timeout: 30
+
+  choice:
+    enabled: true
+    selection_strategy: "weighted"  # Options: weighted, random, round_robin
+
+# Route Configuration
+route:
+  max_waypoints: 20  # Maximum waypoints to process
+  min_waypoint_distance: 5  # km - minimum distance between waypoints
+  waypoint_extraction_strategy: "major_junctions"  # Options: major_junctions, all_steps
+
+# System Configuration
+system:
+  parallel_execution: true  # Enable parallel agent execution using threads
+  max_agent_threads: 3  # Maximum concurrent agent threads (video, music, info)
+  log_level: INFO  # DEBUG, INFO, WARNING, ERROR, CRITICAL
+  log_file: null  # null for stdout, or path to log file
+  cache_enabled: false  # Future: cache agent results
+  cache_ttl: 3600  # seconds
+
+# Output Configuration
+output:
+  format: "json"  # Options: json, yaml, pretty
+  include_metadata: true
+  include_alternatives: false  # Include non-selected agent results (for debugging)
+  save_to_file: true
+  output_dir: "results"
+
+# Error Handling
+error_handling:
+  continue_on_agent_failure: true  # Continue if individual agents fail
+  max_consecutive_failures: 3  # Abort if this many waypoints fail consecutively
+  retry_transient_errors: true
