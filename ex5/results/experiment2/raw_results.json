@@ -1,0 +1,629 @@
+{
+  "experiment_id": "context_size_impact",
+  "timestamp": "2025-12-10T21:16:18.195101",
+  "config": {
+    "num_runs": 10,
+    "doc_counts": [
+      2,
+      5,
+      10,
+      20,
+      50
+    ],
+    "words_per_doc": 200,
+    "model": "tinyllama",
+    "random_seed": 42
+  },
+  "trials": [
+    {
+      "num_docs": 2,
+      "token_count": 726,
+      "accuracy": 0.0,
+      "latency_ms": 235.49291600647848,
+      "response": "The capital of Atlantias is Poseriodonia, as per the given text.",
+      "expected_answer": "Poseidonia",
+      "error": null,
+      "trial_id": 0,
+      "run_number": 0
+    },
+    {
+      "num_docs": 2,
+      "token_count": 720,
+      "accuracy": 0.0,
+      "latency_ms": 351.19141699397005,
+      "response": "The capital of Atlantias is Poseriodonia, as per Act 821 of 2002 enacted in 2001.",
+      "expected_answer": "Poseidonia",
+      "error": null,
+      "trial_id": 1,
+      "run_number": 1
+    },
+    {
+      "num_docs": 2,
+      "token_count": 687,
+      "accuracy": 1.0,
+      "latency_ms": 444.4434999895748,
+      "response": "The highest mountain on Mars is Olympus Mons, which is located in the Martian polar region and stands at a height of approximately 10 km (6.2 miles). The mountain was named after the Greek goddess of beauty and fertility, who was said to have lived on Mars.",
+      "expected_answer": "Olympus Mons",
+      "error": null,
+      "trial_id": 2,
+      "run_number": 2
+    },
+    {
+      "num_docs": 2,
+      "token_count": 716,
+      "accuracy": 1.0,
+      "latency_ms": 315.3454999992391,
+      "response": "The highest mountain on Mars is Olympus Mons, traditionally known as Olmos Mon or Olmos Mountain.",
+      "expected_answer": "Olympus Mons",
+      "error": null,
+      "trial_id": 3,
+      "run_number": 3
+    },
+    {
+      "num_docs": 2,
+      "token_count": 702,
+      "accuracy": 1.0,
+      "latency_ms": 809.61916699016,
+      "response": "According to Act 774 of 2013 enacted in 2011, So ready bad seat.. Violations may result in imprisonment. The regulation applies to healthcare provider's activities, including Approach join stuff future shoulder western. And Why for plant situation late direction.. Compliance requires Wait it quickly produce beat peace something.. Ago government behavior our. Tell activity including single right nice. Occur college herself catch feeling. Certainly cold every feel site guess want. Many pattern leader career according how success here. Key issue statement prepare organization feel. Water cut fire who why fact reason make. Site for exactly skill half usually customer.   The speed of light is 299792458 meters per second",
+      "expected_answer": "299792458 meters per second",
+      "error": null,
+      "trial_id": 4,
+      "run_number": 4
+    },
+    {
+      "num_docs": 2,
+      "token_count": 706,
+      "accuracy": 1.0,
+      "latency_ms": 307.40337500174064,
+      "response": "The chemical formula for table salt is NaCl, which stands for \"sodium chloride.\"",
+      "expected_answer": "NaCl",
+      "error": null,
+      "trial_id": 5,
+      "run_number": 5
+    },
+    {
+      "num_docs": 2,
+      "token_count": 709,
+      "accuracy": 1.0,
+      "latency_ms": 1380.5704999977024,
+      "response": "The Fibonaci sequence starts with 0 and 1, which are the first two digits of the first term (0 + 1 = 1). The sequence continues by identifying the next digit based on the previous one, as follows:\n\n- If the previous digit is 0 or 1, the new digit will be 0 or 1.\n- If the previous digit is 2 or 3, the new digit will be 2 or 3.\n- If the previous digit is 4 or 5, the new digit will be 4 or 5.\n- If the previous digit is 6 or 7, the new digit will be 6 or 7.\n- If the previous digit is 8 or 9, the new digit will be 8 or 9.\n- If the previous digit is 0 or 1, the new digit will be 0 or 1.\n- If the previous digit is 2 or 3, the new digit will be 2 or 3.\n- If the previous digit is 4 or 5, the new digit will be 4 or 5.\n- If the previous digit is 6 or 7, the new digit will be 6 or 7.\n- If the previous digit is 8 or 9, the new digit will be 8 or 9.\n\nThis sequence continues until the first term (0 + 1 = 1) is reached, at which point it repeats itself again.",
+      "expected_answer": "1",
+      "error": null,
+      "trial_id": 6,
+      "run_number": 6
+    },
+    {
+      "num_docs": 2,
+      "token_count": 697,
+      "accuracy": 1.0,
+      "latency_ms": 487.2871250117896,
+      "response": "The Fibonaci sequence starts with 0 and 1, which are the first two numbers in the sequence. The sequence is based on the idea that every number in the sequence is obtained by adding one to the previous number (0 + 1 = 1).",
+      "expected_answer": "1",
+      "error": null,
+      "trial_id": 7,
+      "run_number": 7
+    },
+    {
+      "num_docs": 2,
+      "token_count": 696,
+      "accuracy": 0.0,
+      "latency_ms": 278.2523749920074,
+      "response": "The capital of Atlantias is Poseriodonia.",
+      "expected_answer": "Poseidonia",
+      "error": null,
+      "trial_id": 8,
+      "run_number": 8
+    },
+    {
+      "num_docs": 2,
+      "token_count": 677,
+      "accuracy": 1.0,
+      "latency_ms": 312.4759169877507,
+      "response": "The Fibonaci sequence starts with 0 and 1, as per the given text.",
+      "expected_answer": "1",
+      "error": null,
+      "trial_id": 9,
+      "run_number": 9
+    },
+    {
+      "num_docs": 5,
+      "token_count": 1764,
+      "accuracy": 0.0,
+      "latency_ms": 514.1378339903895,
+      "response": "The speed of light is 299,792,458 meters per second.",
+      "expected_answer": "299792458 meters per second",
+      "error": null,
+      "trial_id": 10,
+      "run_number": 0
+    },
+    {
+      "num_docs": 5,
+      "token_count": 1749,
+      "accuracy": 1.0,
+      "latency_ms": 478.91779099882115,
+      "response": "The chemical formula for table salt is NaCl.",
+      "expected_answer": "NaCl",
+      "error": null,
+      "trial_id": 11,
+      "run_number": 1
+    },
+    {
+      "num_docs": 5,
+      "token_count": 1715,
+      "accuracy": 1.0,
+      "latency_ms": 462.23845799977425,
+      "response": "The chemical formula for table salt is NaCl.",
+      "expected_answer": "NaCl",
+      "error": null,
+      "trial_id": 12,
+      "run_number": 2
+    },
+    {
+      "num_docs": 5,
+      "token_count": 1745,
+      "accuracy": 0.0,
+      "latency_ms": 511.927708008443,
+      "response": "The capital of Atlantias is Poseriodonia, as per the given text.",
+      "expected_answer": "Poseidonia",
+      "error": null,
+      "trial_id": 13,
+      "run_number": 3
+    },
+    {
+      "num_docs": 5,
+      "token_count": 1760,
+      "accuracy": 1.0,
+      "latency_ms": 803.721709002275,
+      "response": "The Fibonaci sequence starts with 0 and 1, and the first crime offers a treat to forget sometimes. The gun is the goal measure trip president painting, and the skipping discovery fire wins a real sense of some nation fine present. The treatment scientist job serious record safe, and the trotting view base time order have power here. Computer reveal evidence significant discussion manage, and the issue everything they fire girl. Budget event keep those.",
+      "expected_answer": "1",
+      "error": null,
+      "trial_id": 14,
+      "run_number": 4
+    },
+    {
+      "num_docs": 5,
+      "token_count": 1756,
+      "accuracy": 1.0,
+      "latency_ms": 499.3624170019757,
+      "response": "The highest mountain on Mars is Olympus Mons, according to the given material.",
+      "expected_answer": "Olympus Mons",
+      "error": null,
+      "trial_id": 15,
+      "run_number": 5
+    },
+    {
+      "num_docs": 5,
+      "token_count": 1707,
+      "accuracy": 1.0,
+      "latency_ms": 558.1557499972405,
+      "response": "The highest mountain on Mars is Olympus Mons, according to Act 467 of 2001 enacted in 2012.",
+      "expected_answer": "Olympus Mons",
+      "error": null,
+      "trial_id": 16,
+      "run_number": 6
+    },
+    {
+      "num_docs": 5,
+      "token_count": 1737,
+      "accuracy": 1.0,
+      "latency_ms": 577.191958000185,
+      "response": "The highest mountain on Mars is Olympus Mons, according to Act 619 of 2006 enacted in 2004.",
+      "expected_answer": "Olympus Mons",
+      "error": null,
+      "trial_id": 17,
+      "run_number": 7
+    },
+    {
+      "num_docs": 5,
+      "token_count": 1777,
+      "accuracy": 0.0,
+      "latency_ms": 616.8598749936791,
+      "response": "The speed of light is 299,792,458 meters per second, as stated in Act 489 of 2017 enacted in 2022.",
+      "expected_answer": "299792458 meters per second",
+      "error": null,
+      "trial_id": 18,
+      "run_number": 8
+    },
+    {
+      "num_docs": 5,
+      "token_count": 1730,
+      "accuracy": 1.0,
+      "latency_ms": 521.5509580011712,
+      "response": "The chemical formula for table salt is NaCl, which stands for sodium chloride (NaCl).",
+      "expected_answer": "NaCl",
+      "error": null,
+      "trial_id": 19,
+      "run_number": 9
+    },
+    {
+      "num_docs": 10,
+      "token_count": 3454,
+      "accuracy": 0.0,
+      "latency_ms": 761.6222079959698,
+      "response": "The speed of light is approximately 299,792,458 meters per second (m/s), which is equal to approximately 671,000,000 miles per hour.",
+      "expected_answer": "299792458 meters per second",
+      "error": null,
+      "trial_id": 20,
+      "run_number": 0
+    },
+    {
+      "num_docs": 10,
+      "token_count": 3482,
+      "accuracy": 0.0,
+      "latency_ms": 647.1039589960128,
+      "response": "The capital of Atlantias is New York City, according to the given material.",
+      "expected_answer": "Poseidonia",
+      "error": null,
+      "trial_id": 21,
+      "run_number": 1
+    },
+    {
+      "num_docs": 10,
+      "token_count": 3453,
+      "accuracy": 1.0,
+      "latency_ms": 866.5971669979626,
+      "response": "The Fibonaci sequence starts with the first 20 digits of pi (3.14159...), which are written in reverse order from right to left, starting with 3 and ending with 1. The sequence is named after the Italian mathematician Fra' Andrea Fibonacci, who discovered it in the 13th century.",
+      "expected_answer": "1",
+      "error": null,
+      "trial_id": 22,
+      "run_number": 2
+    },
+    {
+      "num_docs": 10,
+      "token_count": 3438,
+      "accuracy": 0.0,
+      "latency_ms": 883.6568340047961,
+      "response": "The Fibonaci sequence starts with a letter \"F\" and then adds one letter at a time until it reaches the last letter \"I\". For example, if we start with \"F\", we would add \"A\" to get \"FA\", then add \"B\" to get \"FB\", etc. Eventually, we reach the letter \"I\", which is added to get \"FI\".",
+      "expected_answer": "1",
+      "error": null,
+      "trial_id": 23,
+      "run_number": 3
+    },
+    {
+      "num_docs": 10,
+      "token_count": 3513,
+      "accuracy": 0.0,
+      "latency_ms": 746.2644999905024,
+      "response": "The speed of light is approximately 299,792,458 meters per second (m/s), which is approximately 186,000 miles per hour.",
+      "expected_answer": "299792458 meters per second",
+      "error": null,
+      "trial_id": 24,
+      "run_number": 4
+    },
+    {
+      "num_docs": 10,
+      "token_count": 3468,
+      "accuracy": 1.0,
+      "latency_ms": 719.779084000038,
+      "response": "The highest mountain on Mars is Olympus Mons, which stands at a height of approximately 25 km (16 miles) above the planet's surface.",
+      "expected_answer": "Olympus Mons",
+      "error": null,
+      "trial_id": 25,
+      "run_number": 5
+    },
+    {
+      "num_docs": 10,
+      "token_count": 3477,
+      "accuracy": 1.0,
+      "latency_ms": 61956.45408300334,
+      "response": "The Fibonaci sequence starts by taking the first 20 digits of pi (\u03c0) and multiplying them together to get a total of 4,194,361. The sequence then continues by taking each subsequent 20-digit number and adding it to the previous one, until all 50 digits have been added up. This process is repeated for an infinite number of times, resulting in a sequence of increasingly larger numbers.",
+      "expected_answer": "1",
+      "error": null,
+      "trial_id": 26,
+      "run_number": 6
+    },
+    {
+      "num_docs": 10,
+      "token_count": 3469,
+      "accuracy": 1.0,
+      "latency_ms": 650.3142080036923,
+      "response": "The chemical formula for table salt (sodium chloride) is NaCl.",
+      "expected_answer": "NaCl",
+      "error": null,
+      "trial_id": 27,
+      "run_number": 7
+    },
+    {
+      "num_docs": 10,
+      "token_count": 3510,
+      "accuracy": 0.0,
+      "latency_ms": 648.0087089876179,
+      "response": "The capital of Atlantias is located in New Jersey, United States.",
+      "expected_answer": "Poseidonia",
+      "error": null,
+      "trial_id": 28,
+      "run_number": 8
+    },
+    {
+      "num_docs": 10,
+      "token_count": 3539,
+      "accuracy": 1.0,
+      "latency_ms": 665.8789590001106,
+      "response": "The chemical formula for table salt (sodium chloride) is NaCl.",
+      "expected_answer": "NaCl",
+      "error": null,
+      "trial_id": 29,
+      "run_number": 9
+    },
+    {
+      "num_docs": 20,
+      "token_count": 6936,
+      "accuracy": 1.0,
+      "latency_ms": 1243.9145840035053,
+      "response": "The Fibonaci sequence starts by taking the first 10 digits of pi (3.14159265358979323...), which are 3, 14, 15, 9, 26, 53, 81, 126, 191, and so on. The sequence continues by taking the next 10 digits of pi (3.14159265358979323...), which are 3, 14, 15, 9, 26, 53, 81, 126, 191, and so on. The sequence is repeated infinitely, making it a cyclical pattern.",
+      "expected_answer": "1",
+      "error": null,
+      "trial_id": 30,
+      "run_number": 0
+    },
+    {
+      "num_docs": 20,
+      "token_count": 6965,
+      "accuracy": 0.0,
+      "latency_ms": 762.903875001939,
+      "response": "The speed of light is approximately 299,792,458 meters per second (m/s), which is approximately 30 million miles per hour (mi/h).",
+      "expected_answer": "299792458 meters per second",
+      "error": null,
+      "trial_id": 31,
+      "run_number": 1
+    },
+    {
+      "num_docs": 20,
+      "token_count": 6903,
+      "accuracy": 1.0,
+      "latency_ms": 1235.472790998756,
+      "response": "The Fibonaci sequence starts by taking the first two numbers, which are 1 and 2. The next number is 3, so we add it to the first two (1 + 2 = 3) and repeat this process until we reach the nth number, where n is the number of digits in the number. For example, if we have a number like 123456789, we would take the first three digits (1, 2, and 3), add them to get 1 + 2 + 3 = 6, and then repeat this process until we reach the nth digit (n = 8). This sequence is named after the Italian mathematician Fra' Andrea Fibonacci, who first discovered it in the 14th century.",
+      "expected_answer": "1",
+      "error": null,
+      "trial_id": 32,
+      "run_number": 2
+    },
+    {
+      "num_docs": 20,
+      "token_count": 6887,
+      "accuracy": 1.0,
+      "latency_ms": 1042.9538330063224,
+      "response": "The Fibonaci sequence starts by taking the first 26 digits of pi (\u03c0) and multiplying them together, resulting in a total of 384. The sequence then continues by taking each subsequent 26-digit number and multiplying it with the previous one, resulting in a total of 107,361,952,000. This process is repeated until all possible combinations are exhausted, resulting in a total of 4,839,877,615,600 digits.",
+      "expected_answer": "1",
+      "error": null,
+      "trial_id": 33,
+      "run_number": 3
+    },
+    {
+      "num_docs": 20,
+      "token_count": 6934,
+      "accuracy": 0.0,
+      "latency_ms": 697.8536669921596,
+      "response": "The capital of Atlantias is New Providence, which is located in the country of Jamaica.",
+      "expected_answer": "Poseidonia",
+      "error": null,
+      "trial_id": 34,
+      "run_number": 4
+    },
+    {
+      "num_docs": 20,
+      "token_count": 6927,
+      "accuracy": 0.0,
+      "latency_ms": 749.4121659983648,
+      "response": "The speed of light is approximately 299,792,458 meters per second (m/s), which is approximately 300 million miles per hour (mi/h).",
+      "expected_answer": "299792458 meters per second",
+      "error": null,
+      "trial_id": 35,
+      "run_number": 5
+    },
+    {
+      "num_docs": 20,
+      "token_count": 6956,
+      "accuracy": 0.0,
+      "latency_ms": 752.386457999819,
+      "response": "The speed of light is approximately 299,792,458 meters per second (m/s), which is approximately 300 million miles per hour (mi/h).",
+      "expected_answer": "299792458 meters per second",
+      "error": null,
+      "trial_id": 36,
+      "run_number": 6
+    },
+    {
+      "num_docs": 20,
+      "token_count": 6946,
+      "accuracy": 1.0,
+      "latency_ms": 1063.0646250065183,
+      "response": "The highest mountain on Mars is Olympus Mons, which stands at a height of approximately 25 km (16 miles) above the planet's surface. It is estimated to be around 30 km (19 miles) wide and 400 km (250 miles) long, making it one of the largest volcanoes in the solar system. Olympus Mons is also known for its unique geological features, including a central crater surrounded by several smaller ones, which are believed to have formed from lava flows that erupted from the mountain's interior.",
+      "expected_answer": "Olympus Mons",
+      "error": null,
+      "trial_id": 37,
+      "run_number": 7
+    },
+    {
+      "num_docs": 20,
+      "token_count": 6923,
+      "accuracy": 0.0,
+      "latency_ms": 981.468792000669,
+      "response": "The Fibonaci sequence starts with the first letter of each word in a sentence, starting from the beginning and moving forward. For example, if we have the sentence \"I love you,\" the first letter of each word would be \"i\" (the first letter), \"love,\" and \"you.\" The sequence would then be:\n\n- I\n- love\n- you\n\nThe sequence can be repeated for any number of words in a sentence, starting from the beginning.",
+      "expected_answer": "1",
+      "error": null,
+      "trial_id": 38,
+      "run_number": 8
+    },
+    {
+      "num_docs": 20,
+      "token_count": 7022,
+      "accuracy": 1.0,
+      "latency_ms": 672.504582995316,
+      "response": "The chemical formula for table salt (sodium chloride) is NaCl.",
+      "expected_answer": "NaCl",
+      "error": null,
+      "trial_id": 39,
+      "run_number": 9
+    },
+    {
+      "num_docs": 50,
+      "token_count": 17340,
+      "accuracy": 1.0,
+      "latency_ms": 1209.033500010264,
+      "response": "The Fibonaci sequence starts by taking the first 20 digits of pi (3.14159...), which are 3, 7, 11, 18, 27, 36, 45, 55, 66, 77, 88, 99, 110, 121, 132, 143, 154, 165, 176, 187, 198, and so on. The sequence is named after the Italian mathematician Giovanni Battista (Battista) Fibonacci, who lived in the 14th century.",
+      "expected_answer": "1",
+      "error": null,
+      "trial_id": 40,
+      "run_number": 0
+    },
+    {
+      "num_docs": 50,
+      "token_count": 17414,
+      "accuracy": 1.0,
+      "latency_ms": 695.23312500678,
+      "response": "The chemical formula for table salt (sodium chloride) is NaCl.",
+      "expected_answer": "NaCl",
+      "error": null,
+      "trial_id": 41,
+      "run_number": 1
+    },
+    {
+      "num_docs": 50,
+      "token_count": 17258,
+      "accuracy": 0.0,
+      "latency_ms": 725.1845839928137,
+      "response": "The capital of Atlantias is unknown, as it has not been mentioned in the given text.",
+      "expected_answer": "Poseidonia",
+      "error": null,
+      "trial_id": 42,
+      "run_number": 2
+    },
+    {
+      "num_docs": 50,
+      "token_count": 17342,
+      "accuracy": 1.0,
+      "latency_ms": 684.2334999964805,
+      "response": "The chemical formula for table salt is NaCl (salt).",
+      "expected_answer": "NaCl",
+      "error": null,
+      "trial_id": 43,
+      "run_number": 3
+    },
+    {
+      "num_docs": 50,
+      "token_count": 17355,
+      "accuracy": 1.0,
+      "latency_ms": 62418.68191599497,
+      "response": "The Fibonaci sequence starts by taking the first 26 digits of pi (3.14159...), which are 3, 7, 10, 15, 21, 28, 35, 42, 50, 58, 66, 74, 82, 90, 98, 106, 114, 122, 130, 138, 146, 154, 162, 170, 178, and so on. The sequence is named after the Italian mathematician Fra' Andrea Fibonacci (c. 1170-1240), who first discovered it in his book Liber Abaci (Book of Calculation).",
+      "expected_answer": "1",
+      "error": null,
+      "trial_id": 44,
+      "run_number": 4
+    },
+    {
+      "num_docs": 50,
+      "token_count": 17341,
+      "accuracy": 1.0,
+      "latency_ms": 1046.092292002868,
+      "response": "The Fibonaci sequence starts by taking the first two digits of each number in the sequence, which are 1 and 2 respectively. The next digit is then calculated as the sum of the first two digits (1 + 2 = 3), followed by the second digit (3 + 1 = 4). This process is repeated until the last digit is obtained (4 + 4 = 8). The sequence then repeats itself, with each subsequent number being the sum of the previous two numbers.",
+      "expected_answer": "1",
+      "error": null,
+      "trial_id": 45,
+      "run_number": 5
+    },
+    {
+      "num_docs": 50,
+      "token_count": 17340,
+      "accuracy": 1.0,
+      "latency_ms": 693.7771249940852,
+      "response": "The chemical formula for table salt is NaCl (salt).",
+      "expected_answer": "NaCl",
+      "error": null,
+      "trial_id": 46,
+      "run_number": 6
+    },
+    {
+      "num_docs": 50,
+      "token_count": 17337,
+      "accuracy": 1.0,
+      "latency_ms": 777.4545410065912,
+      "response": "The chemical formula for table salt (sodium chloride) is NaCl.",
+      "expected_answer": "NaCl",
+      "error": null,
+      "trial_id": 47,
+      "run_number": 7
+    },
+    {
+      "num_docs": 50,
+      "token_count": 17380,
+      "accuracy": 1.0,
+      "latency_ms": 774.1715000011027,
+      "response": "The highest mountain on Mars is Olympus Mons, which stands at a height of approximately 25 km (16 miles) above the planet's surface.",
+      "expected_answer": "Olympus Mons",
+      "error": null,
+      "trial_id": 48,
+      "run_number": 8
+    },
+    {
+      "num_docs": 50,
+      "token_count": 17335,
+      "accuracy": 0.0,
+      "latency_ms": 872.5400410039583,
+      "response": "The speed of light is approximately 299,792,458 meters per second (m/s), which is approximately 30.06 miles per second (mi/s) or 56,214.9 feet per second (ft/s).",
+      "expected_answer": "299792458 meters per second",
+      "error": null,
+      "trial_id": 49,
+      "run_number": 9
+    }
+  ],
+  "statistics": {
+    "mean_accuracy": 0.64,
+    "std_accuracy": 0.48,
+    "min_accuracy": 0.0,
+    "max_accuracy": 1.0,
+    "mean_latency": 3162.2032691791537,
+    "std_latency": 12051.306506329052,
+    "confidence_interval_95": [
+      0.5069507880519393,
+      0.7730492119480608
+    ]
+  },
+  "metadata": {
+    "total_runtime_seconds": 272.53792266600067,
+    "success_rate": 1.0,
+    "num_trials": 50,
+    "failed_trials": 0
+  },
+  "aggregated_by_size": [
+    {
+      "num_docs": 2,
+      "accuracy": 0.7,
+      "accuracy_std": 0.45825756949558394,
+      "latency": 492.2081791970413,
+      "latency_std": 334.89483099923234,
+      "avg_tokens": 703.6
+    },
+    {
+      "num_docs": 5,
+      "accuracy": 0.7,
+      "accuracy_std": 0.45825756949558394,
+      "latency": 554.4064457993954,
+      "latency_std": 93.97902721189742,
+      "avg_tokens": 1744.0
+    },
+    {
+      "num_docs": 10,
+      "accuracy": 0.5,
+      "accuracy_std": 0.5,
+      "latency": 6854.567971098004,
+      "latency_std": 18367.479536084076,
+      "avg_tokens": 3480.3
+    },
+    {
+      "num_docs": 20,
+      "accuracy": 0.5,
+      "accuracy_std": 0.5,
+      "latency": 920.1935374003369,
+      "latency_std": 208.8740254700077,
+      "avg_tokens": 6939.9
+    },
+    {
+      "num_docs": 50,
+      "accuracy": 0.8,
+      "accuracy_std": 0.4,
+      "latency": 6989.640212400991,
+      "latency_std": 18477.069755207704,
+      "avg_tokens": 17344.2
+    }
+  ]
+}

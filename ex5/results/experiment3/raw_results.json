@@ -1,0 +1,281 @@
+{
+  "experiment_id": "rag_vs_full_context",
+  "timestamp": "2025-12-10T21:17:26.704938",
+  "config": {
+    "num_runs": 10,
+    "num_docs": 20,
+    "chunk_size": 500,
+    "chunk_overlap": 50,
+    "top_k": 3,
+    "model": "tinyllama",
+    "random_seed": 42
+  },
+  "trials": [
+    {
+      "accuracy": 1.0,
+      "latency_ms": 1839.5837499992922,
+      "error": null
+    },
+    {
+      "accuracy": 0.0,
+      "latency_ms": 1516.6515419987263,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 1023.7015840102686,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 1080.9597920015221,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 698.1231249956181,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 655.3833329962799,
+      "error": null
+    },
+    {
+      "accuracy": 0.0,
+      "latency_ms": 804.1164589958498,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 1223.9475840033265,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 256.44437500159256,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 1254.1554160125088,
+      "error": null
+    }
+  ],
+  "statistics": {
+    "mean_accuracy": 0.8,
+    "std_accuracy": 0.4,
+    "min_accuracy": 0.0,
+    "max_accuracy": 1.0,
+    "mean_latency": 1035.3066960014985,
+    "std_latency": 433.8621248858119,
+    "confidence_interval_95": [
+      0.5520774314427992,
+      1.0
+    ]
+  },
+  "metadata": {
+    "total_runtime_seconds": 65.70999591700092,
+    "success_rate": 1.0,
+    "num_trials": 10,
+    "failed_trials": 0
+  },
+  "aggregated": {
+    "rag": {
+      "accuracy": 0.8,
+      "accuracy_std": 0.4,
+      "latency": 1035.3066960014985,
+      "latency_std": 433.8621248858119,
+      "tokens": 323.8
+    },
+    "full": {
+      "accuracy": 0.6,
+      "accuracy_std": 0.48989794855663565,
+      "latency": 944.0178666001884,
+      "latency_std": 118.67283284932064,
+      "tokens": 6979.0
+    }
+  },
+  "all_trials": [
+    {
+      "question": "What are the key features mentioned in the technology documents?",
+      "expected_answer": "features",
+      "rag": {
+        "response": "The key features mentioned in the technology documents are:\n1. Interest heavy give edge level - This refers to the fact that the interest rate on a given security is set at a high level, which encourages investors to buy it.\n2. Station however bill memory production successful hear - This refers to the fact that the bill of materials for a product or service is stationed in a certain location, which helps ensure efficient production and reduces waste.\n3. Party less what than political up - This refers to the fact that the party in power is less influential than the one in office, which can help prevent corruption and promote transparency.\n4. Security print out of the system - This refers to the fact that a security measure has been put in place to protect sensitive information or assets from unauthorized access.\n5. Demand red head take - This refers to the fact that demand for a product or service is high, which can help drive sales and increase revenue.\n6. Security print out of the system - This refers to the fact that a security measure has been put in place to protect sensitive information or assets from unauthorized access.\n7. Interest heavy give edge level - This refers to the fact that interest rates on a given security are set at a high level, which encourages investors to buy it.\n8. Security print out of the system - This refers to the fact that a security measure has been put in place to protect sensitive information or assets from unauthorized access.\n9. Interest heavy give edge level - This refers to the fact that interest rates on a given security are set at a high level, which encourages investors to buy it.\n10. Security print out of the system - This refers to the fact that a security measure has been put in place to protect sensitive information or assets from unauthorized access.",
+        "accuracy": 1.0,
+        "latency_ms": 1839.5837499992922,
+        "token_count": 291
+      },
+      "full": {
+        "response": "The key features mentioned in the technology documents include Ergonomic asymmetric continency, Devolved explicit budgetary management, and a blockchain-based ecosystem for extend, legislation, and government. The Nation Pro system developed by Aguirre, Cohen, and Mitchell uses a combination of these features to treat arthritis, with the goal of improving patient outcomes and reducing healthcare costs.",
+        "accuracy": 1.0,
+        "latency_ms": 918.2307079900056,
+        "token_count": 6979
+      },
+      "error": null,
+      "trial_id": 0
+    },
+    {
+      "question": "What regulations are discussed?",
+      "expected_answer": "regulations",
+      "rag": {
+        "response": "The legal framework governing securities includes Act 522 of 2000, which establishes the Elected Institutions Small Detail (EISD) and outlines penalties for non-compliance. The statute also clarifies that material details must be provided to all entities operating in the healthcare provider sector, including suspension of licenses and the possibility of fines or imprisonment. Recent case law has clarified that the current save their deal. The activity decision is positive, while the gun technology cost enjoy especially when the firm's stock religious itself safe. The pattern try simple let stay, the environment system store beautiful think during let particular. From management foot maintain great election. They red believe player stock religious itself safe. Pattern try simple let stay. Environmental system store beautiful think during let particular. Black whether player stock religious itself safe. Image new drive. Position make society behavior develop reality fill. Hard network gas you nearly goal law fill. Building court build movie several. Course school everybody operation. Violation may result in imprisonment. The regulation applies to financial institutions. Key provisions include Far always many debate value former. and Actually become book.. Compliance requires Protect chaNCe bed memory rich big eight.. Forget thus western environmental. Head garden box hundred. Even history surface son power someone both. Word such billion treat. Soon question consider here grow agreement range.",
+        "accuracy": 0.0,
+        "latency_ms": 1516.6515419987263,
+        "token_count": 361
+      },
+      "full": {
+        "response": "The question is asking about the legal framework governed by Act 522 of 2000, which includes blockchain and Democrats. The answer provided is that the regulatory framework established by this statute includes the use of blockchain technology for extending healthcare provider services, as well as Democrats' involvement in the process.",
+        "accuracy": 0.0,
+        "latency_ms": 883.156500000041,
+        "token_count": 6979
+      },
+      "error": null,
+      "trial_id": 1
+    },
+    {
+      "question": "What medical procedures are described?",
+      "expected_answer": "procedures",
+      "rag": {
+        "response": "Sure, here are the medical procedures mentioned in the given text:\n\n1. Medical procedure angioplasty is used to treat hypertension.\n2. Medical procedure biopsy is used to treat arthritis.\n3. Medical procedure biopsy is used to treat hypertensiion.\n4. Medical procedure biopsy is used to treat hypertension. The procedure involves Require bank child Republican plant.\n5. Medical procedure biopsy is used to treat hypertensiation. The procedure involves Floor north force.\n6. Medical procedure biopsy is used to treat arthritis. The procedure involves First blood accept final growth especially.. Risks include bleeding and pain. Recovery time is typically 2-4 weeks. Success rates are approximately 85%. Beautiful issue news mention. Ago government behavior our. Tell activity including single right nice. Occur college herself catch feeling. Certainly cold every feel site guess want. Occur college herself catch feeling.",
+        "accuracy": 1.0,
+        "latency_ms": 1023.7015840102686,
+        "token_count": 352
+      },
+      "full": {
+        "response": "The medical procedures described in the text material include biopsy, which involves flooring north force, followed by check purpose young wife send. The procedure is used to treat arthritis and success rates are approximately 95%. The risks associated with this procedure include infectious disease, numbness, and a high recovery time of 1-2 months.",
+        "accuracy": 1.0,
+        "latency_ms": 887.6866250066087,
+        "token_count": 6979
+      },
+      "error": null,
+      "trial_id": 2
+    },
+    {
+      "question": "What companies are mentioned?",
+      "expected_answer": "companies",
+      "rag": {
+        "response": "The companies mentioned in the given text are:\n- Near. Trip give white everybody paper create upon.\n- Absolutely company media next me future bring.\n- H product attention positive actually information.\n- Black whether player stock religious itself safe.\n- Pattern try simple let stay.\n- Environmental system store beautiful think during let particular.\n- From management foot maintain great election.\n- They red everybody act way.\n- Drop image new drive.\n- Position make society behavior develop reality fill.\n- Hard network gas you nearly goal law fill.\n- Building court build movie several.\n- Course school everybody operation.\n- Interest heavy give edge level.\n- Station however bill memory production successful hear.\n- Participant fear blue as write political technology end.\n- Could military drive arm tax.\n- Identify floor cause agent market fast trade identify.\n- On yes staff.\n- Risk develop movement size trade public.\n- Feel color price next family likely scientist.\n- Several consumer quite friend become great season.\n- Internal think he one less.\n- Line create build quite.",
+        "accuracy": 1.0,
+        "latency_ms": 1080.9597920015221,
+        "token_count": 256
+      },
+      "full": {
+        "response": "The legal framework governed by Act 522 of 2000, which includes the Nation Pro system developed by Aguirre, Cohen and Mitchell, and the Nation Pro system developed by Aguirre, Cohen, and Mitchell. The system is based on blockchain technology and Democrat barcodes to enable extend real-time e-marketplaces.",
+        "accuracy": 0.0,
+        "latency_ms": 884.8265830019955,
+        "token_count": 6979
+      },
+      "error": null,
+      "trial_id": 3
+    },
+    {
+      "question": "What are the side effects mentioned?",
+      "expected_answer": "side effects",
+      "rag": {
+        "response": "The side effects mentioned for Participantex, a medication prescribed for treating hypertense, include nausea and fatigue. Common side effects for Participantex include nausea and fatigue. For Participantex, the recommended dosage is 65mg daily. The cliniical trial results showed a 90% effectiveness rate. Decision-making policies for Participantex include clearing the writer's policy and successively directing the firm environment. The author's responsibility for defeating the enemy is to defeat the disease.",
+        "accuracy": 1.0,
+        "latency_ms": 698.1231249956181,
+        "token_count": 359
+      },
+      "full": {
+        "response": "The side effects mentioned include infusion fever, which can cause fever, headache, and fatigue; injection site reactions, such as pain, swelling, and redness at the injection site; and allergic reactions, such as rash, itching, hives, and swelling of the face or throat. These side effects are not life-threatening but can be uncomfortable and require close monitoring by a healthcare professional.",
+        "accuracy": 1.0,
+        "latency_ms": 957.061082997825,
+        "token_count": 6979
+      },
+      "error": null,
+      "trial_id": 4
+    },
+    {
+      "question": "What are the key features mentioned in the technology documents?",
+      "expected_answer": "features",
+      "rag": {
+        "response": "The key features mentioned in the technology documents include:\n1. Interest heavy give edge level\n2. Station, bill memory production successful hear\n3. Party less what than political up\n4. Piece occur support author class direction\n5. North first end prove fire enter capital population\n6. Security, interest heavy give edge level station, bill memory production successful hear party less what than political up piece occur support author class direction north first end prove fire enter capital population",
+        "accuracy": 1.0,
+        "latency_ms": 655.3833329962799,
+        "token_count": 291
+      },
+      "full": {
+        "response": "The key features mentioned in the technology documents include Ergonomic asymmetric continency, Devolved explicit budgetary management, and a blockchain-based ecosystem for extend, legislation, and government. The Nation Pro system developed by Aguirre, Cohen, and Mitchell uses blockchain to enable extend real-time e-business, Democrat fire sign, and floors national seek nature.",
+        "accuracy": 1.0,
+        "latency_ms": 907.9190839984221,
+        "token_count": 6979
+      },
+      "error": null,
+      "trial_id": 5
+    },
+    {
+      "question": "What regulations are discussed?",
+      "expected_answer": "regulations",
+      "rag": {
+        "response": "The legal framework governing securities includes Act 522 of 2000, which establishes the Elected Institutions Small Detail (EISD) and outlines penalties for non-compliance. The statute clarifies that material details are required to be provided by entities operating in the healthcare provider sector, including suspension of licenses and receipt of warnings. Recent case law has clarified that material current save their dealings with the institution vote, while the act's \"hard\" network gas system is a potential source of contamination. The regulatory provisions include the requirement to protect sensitive information, such as data on financial institutions, and the need for compliance with environmental standards.",
+        "accuracy": 0.0,
+        "latency_ms": 804.1164589958498,
+        "token_count": 361
+      },
+      "full": {
+        "response": "The legal framework governed by Act 522 of 2000 includes blockchain, medicine, and healthcare provider registration. The statute establishes Electon as the medium for storing medical records and authorizes the Secretary of State to establish a system for registering healthcare providers. The framework also includes Act 522 of 2018, which regulates the use of blockchain in e-marketplaces and extends real-time e-business. The framework is based on monolithiic principles and includes risks associated with infectious diseases, numbness, and public interest. The framework also includes a discussion about the importance of the National Election Pro system developed by Aguirre, Cohen, and Mitchell for extend real-time e-marketplaces and the need to analyze the impact of the proposed changes on the healthcare provider registration process.",
+        "accuracy": 0.0,
+        "latency_ms": 1291.2809170084074,
+        "token_count": 6979
+      },
+      "error": null,
+      "trial_id": 6
+    },
+    {
+      "question": "What medical procedures are described?",
+      "expected_answer": "procedures",
+      "rag": {
+        "response": "Sure, here are the medical procedures mentioned in the given text:\n\n1. Medical procedure angioplasty is used to treat hypertension.\n2. Medical procedure biopsy is used to treat arthritis.\n3. Medical procedure biopsy is used to treat hypertensiion.\n4. Medical procedure biopsy is used to treat hypertension. The procedure involves Require bank child Republican plant.\n5. Medical procedure biopsy is used to treat hypertensiation. The procedure involves Floor north force.\n6. Medical procedure biopsy is used to treat arthritis. The procedure involves First blood accept final growth especially.. Risks include bleeding and pain. Recovery time is typically 2-4 weeks. Success rates are approximately 85%.\n7. Medical procedure angioplasty is used to treat hypertensiation. The procedure involves Claim kind relationship niight born. Followed by Nation strong old chaulle.. Risks include infusion and numbness. Recovery time is typically 1-2 months. Success rates are approximately 95%. Among half value win. Togetther decide economic. Government nice themselves wind. Understand door class son. Thing agent say forward. Soon ten specific environment skin blue. Teach develop staff.",
+        "accuracy": 1.0,
+        "latency_ms": 1223.9475840033265,
+        "token_count": 352
+      },
+      "full": {
+        "response": "The medical procedures described in the text include biopsy, which is used to treat arthritis, and biopsy, which involves a doctor performing an examination of the brain or spinal cord. The article also mentions floors north force, car bar numbers, and floors start.",
+        "accuracy": 1.0,
+        "latency_ms": 868.5024169972166,
+        "token_count": 6979
+      },
+      "error": null,
+      "trial_id": 7
+    },
+    {
+      "question": "What companies are mentioned?",
+      "expected_answer": "companies",
+      "rag": {
+        "response": "The companies mentioned in the given text include Apple, Microsoft, Google, Facebook, Amazon, and Netflix.",
+        "accuracy": 1.0,
+        "latency_ms": 256.44437500159256,
+        "token_count": 256
+      },
+      "full": {
+        "response": "The legal framework governed by Act 522 of 2000, which includes the Nation Pro system developed by Aguirre, Cohen and Mitchell, and the Nation Pro system developed by Aguirre, Cohen, and Mitchell. The article also mentions the blockchain technology used in biopsy, floors north force, and floors national seek nature.",
+        "accuracy": 0.0,
+        "latency_ms": 899.1130409995094,
+        "token_count": 6979
+      },
+      "error": null,
+      "trial_id": 8
+    },
+    {
+      "question": "What are the side effects mentioned?",
+      "expected_answer": "side effects",
+      "rag": {
+        "response": "The side effects mentioned for Participantex, a medication prescribed for treating hypertense, include nausea and fatigue. Common side effects for Participantex include nausea and fatigue. For Participantex, the recommended dosage is 65mg daily.\n\nFor Participantex, common side effects for Autorx, a medication prescribed for treating arthritis, include headache and fatigue. Autorx's recommended dosage is 443mg as needed. For Autorx, the clinical trial results showed a 70% effectiveness.\n\nFor Participantex, common side effects for Singlex, a medication prescribed for treating depression, include nausea and fatigue. Singlex's recommended dosage is 474mg twice daily. For Singlex, the clinical trial results showed a 85% effectiveness.\n\nFor Participantex, common side effects for Autorx, a medication prescribed for treating arthritis, include headache and fatigue. Autorx's recommended dosage is 443mg twice daily. For Autorx, the clinical trial results showed a 70% effectiveness.",
+        "accuracy": 1.0,
+        "latency_ms": 1254.1554160125088,
+        "token_count": 359
+      },
+      "full": {
+        "response": "The side effects mentioned include infusion fever, which is a fever that occurs after receiving an intravenous (IV) injection of medication, and numbness or tingling in the hands and feet. These symptoms can last for several hours to days after the injection. Additionally, there may be a slight increase in blood pressure during the first few hours after the injection, but this should subside within a few days.",
+        "accuracy": 1.0,
+        "latency_ms": 942.401708001853,
+        "token_count": 6979
+      },
+      "error": null,
+      "trial_id": 9
+    }
+  ]
+}

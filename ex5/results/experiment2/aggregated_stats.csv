@@ -1,0 +1,2 @@
+mean_accuracy,std_accuracy,min_accuracy,max_accuracy,mean_latency,std_latency,confidence_interval_95
+0.64,0.48,0.0,1.0,3162.2032691791537,12051.306506329052,"[0.5069507880519393, 0.7730492119480608]"

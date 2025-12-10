@@ -1,0 +1,486 @@
+{
+  "experiment_id": "context_strategies",
+  "timestamp": "2025-12-10T21:17:57.504238",
+  "config": {
+    "num_actions": 10,
+    "strategies": [
+      "select",
+      "compress",
+      "write"
+    ],
+    "model": "tinyllama",
+    "random_seed": 42
+  },
+  "trials": [
+    {
+      "accuracy": 1.0,
+      "latency_ms": 1481.0471250093542,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 424.8562910070177,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 843.0312910059001,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 634.3256660038605,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 547.5858749996405,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 842.817583004944,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 1308.4676250000484,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 599.9504999927012,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 564.8870000004536,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 957.4687499989523,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 1386.2004999973578,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 292.73649999231566,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 319.9882090120809,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 1015.1717080007074,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 1940.1242500025546,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 1072.2514579974813,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 320.3012079902692,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 297.80458300956525,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 316.95916700118687,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 322.86020800529514,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 1131.2537499907194,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 965.6547080085147,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 1142.120625008829,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 1427.5487919949228,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 497.4207499908516,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 430.03929100814275,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 428.18324999825563,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 369.91554200358223,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 390.4438339959597,
+      "error": null
+    },
+    {
+      "accuracy": 1.0,
+      "latency_ms": 315.36800001049414,
+      "error": null
+    }
+  ],
+  "statistics": {
+    "mean_accuracy": 1.0,
+    "std_accuracy": 0.0,
+    "min_accuracy": 1.0,
+    "max_accuracy": 1.0,
+    "mean_latency": 752.8928013013987,
+    "std_latency": 440.0270056646258,
+    "confidence_interval_95": [
+      1.0,
+      1.0
+    ]
+  },
+  "metadata": {
+    "total_runtime_seconds": 30.393722082997556,
+    "success_rate": 1.0,
+    "num_trials": 30,
+    "failed_trials": 0
+  },
+  "all_results": [
+    {
+      "action": 1,
+      "strategy": "select",
+      "action_type": "search",
+      "topic": "user behavior",
+      "context_tokens": 0,
+      "latency": 1481.0471250093542,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 2,
+      "strategy": "select",
+      "action_type": "analyze",
+      "topic": "system performance",
+      "context_tokens": 58,
+      "latency": 424.8562910070177,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 3,
+      "strategy": "select",
+      "action_type": "summarize",
+      "topic": "data quality",
+      "context_tokens": 119,
+      "latency": 843.0312910059001,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 4,
+      "strategy": "select",
+      "action_type": "compare",
+      "topic": "trends",
+      "context_tokens": 179,
+      "latency": 634.3256660038605,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 5,
+      "strategy": "select",
+      "action_type": "conclude",
+      "topic": "anomalies",
+      "context_tokens": 237,
+      "latency": 547.5858749996405,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 6,
+      "strategy": "select",
+      "action_type": "search",
+      "topic": "user behavior",
+      "context_tokens": 295,
+      "latency": 842.817583004944,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 7,
+      "strategy": "select",
+      "action_type": "analyze",
+      "topic": "system performance",
+      "context_tokens": 296,
+      "latency": 1308.4676250000484,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 8,
+      "strategy": "select",
+      "action_type": "summarize",
+      "topic": "data quality",
+      "context_tokens": 297,
+      "latency": 599.9504999927012,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 9,
+      "strategy": "select",
+      "action_type": "compare",
+      "topic": "trends",
+      "context_tokens": 296,
+      "latency": 564.8870000004536,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 10,
+      "strategy": "select",
+      "action_type": "conclude",
+      "topic": "anomalies",
+      "context_tokens": 293,
+      "latency": 957.4687499989523,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 1,
+      "strategy": "compress",
+      "action_type": "search",
+      "topic": "user behavior",
+      "context_tokens": 0,
+      "latency": 1386.2004999973578,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 2,
+      "strategy": "compress",
+      "action_type": "analyze",
+      "topic": "system performance",
+      "context_tokens": 58,
+      "latency": 292.73649999231566,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 3,
+      "strategy": "compress",
+      "action_type": "summarize",
+      "topic": "data quality",
+      "context_tokens": 119,
+      "latency": 319.9882090120809,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 4,
+      "strategy": "compress",
+      "action_type": "compare",
+      "topic": "trends",
+      "context_tokens": 179,
+      "latency": 1015.1717080007074,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 5,
+      "strategy": "compress",
+      "action_type": "conclude",
+      "topic": "anomalies",
+      "context_tokens": 237,
+      "latency": 1940.1242500025546,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 6,
+      "strategy": "compress",
+      "action_type": "search",
+      "topic": "user behavior",
+      "context_tokens": 295,
+      "latency": 1072.2514579974813,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 7,
+      "strategy": "compress",
+      "action_type": "analyze",
+      "topic": "system performance",
+      "context_tokens": 355,
+      "latency": 320.3012079902692,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 8,
+      "strategy": "compress",
+      "action_type": "summarize",
+      "topic": "data quality",
+      "context_tokens": 415,
+      "latency": 297.80458300956525,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 9,
+      "strategy": "compress",
+      "action_type": "compare",
+      "topic": "trends",
+      "context_tokens": 475,
+      "latency": 316.95916700118687,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 10,
+      "strategy": "compress",
+      "action_type": "conclude",
+      "topic": "anomalies",
+      "context_tokens": 533,
+      "latency": 322.86020800529514,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 1,
+      "strategy": "write",
+      "action_type": "search",
+      "topic": "user behavior",
+      "context_tokens": 0,
+      "latency": 1131.2537499907194,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 2,
+      "strategy": "write",
+      "action_type": "analyze",
+      "topic": "system performance",
+      "context_tokens": 62,
+      "latency": 965.6547080085147,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 3,
+      "strategy": "write",
+      "action_type": "summarize",
+      "topic": "data quality",
+      "context_tokens": 123,
+      "latency": 1142.120625008829,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 4,
+      "strategy": "write",
+      "action_type": "compare",
+      "topic": "trends",
+      "context_tokens": 124,
+      "latency": 1427.5487919949228,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 5,
+      "strategy": "write",
+      "action_type": "conclude",
+      "topic": "anomalies",
+      "context_tokens": 121,
+      "latency": 497.4207499908516,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 6,
+      "strategy": "write",
+      "action_type": "search",
+      "topic": "user behavior",
+      "context_tokens": 170,
+      "latency": 430.03929100814275,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 7,
+      "strategy": "write",
+      "action_type": "analyze",
+      "topic": "system performance",
+      "context_tokens": 180,
+      "latency": 428.18324999825563,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 8,
+      "strategy": "write",
+      "action_type": "summarize",
+      "topic": "data quality",
+      "context_tokens": 182,
+      "latency": 369.91554200358223,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 9,
+      "strategy": "write",
+      "action_type": "compare",
+      "topic": "trends",
+      "context_tokens": 124,
+      "latency": 390.4438339959597,
+      "accuracy": 1.0,
+      "error": null
+    },
+    {
+      "action": 10,
+      "strategy": "write",
+      "action_type": "conclude",
+      "topic": "anomalies",
+      "context_tokens": 121,
+      "latency": 315.36800001049414,
+      "accuracy": 1.0,
+      "error": null
+    }
+  ]
+}

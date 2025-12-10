@@ -1,0 +1,4 @@
+Strategy,Avg Tokens,Std Tokens,Avg Latency (ms),Std Latency,Avg Accuracy,Std Accuracy
+compress,266.6,179.5,728.44,591.02,1.0,0.0
+select,207.0,112.33,820.44,345.42,1.0,0.0
+write,120.7,55.52,709.79,411.08,1.0,0.0
