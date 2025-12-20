@@ -1,0 +1,8 @@
+{
+  "schema_version": "1.0.0",
+  "default_settings": {
+    "game_types": ["even_odd"],
+    "version": "1.0.0",
+    "default_strategy": "random"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "games": {
+    "even_odd": {
+      "display_name": "Even/Odd",
+      "description": "Players choose even or odd, referee draws a number 1-10",
+      "min_players": 2,
+      "max_players": 2,
+      "rules": {
+        "number_range": [1, 10],
+        "valid_choices": ["even", "odd"],
+        "scoring": {
+          "win": 3,
+          "draw": 1,
+          "loss": 0
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{"timestamp": "2025-12-20T15:54:08Z", "component": "league_manager", "event_type": "STARTUP", "level": "INFO", "league_id": "league_2025_even_odd"}
+{"timestamp": "2025-12-20T15:54:10Z", "component": "league_manager", "event_type": "MCP_RECEIVED", "level": "INFO", "message_type": "REFEREE_REGISTER_REQUEST", "endpoint": null, "sender": "referee:referee_alpha"}
+{"timestamp": "2025-12-20T15:54:10Z", "component": "league_manager", "event_type": "REFEREE_REGISTRATION", "level": "INFO", "display_name": "Referee Alpha", "endpoint": "http://localhost:8001/mcp"}
+{"timestamp": "2025-12-20T15:54:10Z", "component": "league_manager", "event_type": "REFEREE_REGISTERED", "level": "INFO", "referee_id": "REF01"}
+{"timestamp": "2025-12-20T15:54:12Z", "component": "league_manager", "event_type": "MCP_RECEIVED", "level": "INFO", "message_type": "LEAGUE_REGISTER_REQUEST", "endpoint": null, "sender": "player:agent_alpha"}
+{"timestamp": "2025-12-20T15:54:12Z", "component": "league_manager", "event_type": "PLAYER_REGISTRATION", "level": "INFO", "display_name": "Agent Alpha", "endpoint": "http://localhost:8101/mcp"}
+{"timestamp": "2025-12-20T15:54:12Z", "component": "league_manager", "event_type": "PLAYER_REGISTERED", "level": "INFO", "player_id": "P01"}
+{"timestamp": "2025-12-20T15:54:15Z", "component": "league_manager", "event_type": "MCP_RECEIVED", "level": "INFO", "message_type": "LEAGUE_REGISTER_REQUEST", "endpoint": null, "sender": "player:agent_beta"}
+{"timestamp": "2025-12-20T15:54:15Z", "component": "league_manager", "event_type": "PLAYER_REGISTRATION", "level": "INFO", "display_name": "Agent Beta", "endpoint": "http://localhost:8102/mcp"}
+{"timestamp": "2025-12-20T15:54:15Z", "component": "league_manager", "event_type": "PLAYER_REGISTERED", "level": "INFO", "player_id": "P02"}
+{"timestamp": "2025-12-20T15:54:17Z", "component": "league_manager", "event_type": "MCP_RECEIVED", "level": "INFO", "message_type": "LEAGUE_REGISTER_REQUEST", "endpoint": null, "sender": "player:agent_gamma"}
+{"timestamp": "2025-12-20T15:54:17Z", "component": "league_manager", "event_type": "PLAYER_REGISTRATION", "level": "INFO", "display_name": "Agent Gamma", "endpoint": "http://localhost:8103/mcp"}
+{"timestamp": "2025-12-20T15:54:17Z", "component": "league_manager", "event_type": "PLAYER_REGISTERED", "level": "INFO", "player_id": "P03"}
+{"timestamp": "2025-12-20T15:54:20Z", "component": "league_manager", "event_type": "MCP_RECEIVED", "level": "INFO", "message_type": "LEAGUE_REGISTER_REQUEST", "endpoint": null, "sender": "player:agent_delta"}
+{"timestamp": "2025-12-20T15:54:20Z", "component": "league_manager", "event_type": "PLAYER_REGISTRATION", "level": "INFO", "display_name": "Agent Delta", "endpoint": "http://localhost:8104/mcp"}
+{"timestamp": "2025-12-20T15:54:20Z", "component": "league_manager", "event_type": "PLAYER_REGISTERED", "level": "INFO", "player_id": "P04"}
+{"timestamp": "2025-12-20T15:54:23Z", "component": "league_manager", "event_type": "SCHEDULE_CREATED", "level": "INFO", "total_matches": 6, "players": 4}
+{"timestamp": "2025-12-20T15:54:23Z", "component": "league_manager", "event_type": "MCP_RECEIVED", "level": "INFO", "message_type": "MATCH_RESULT_REPORT", "endpoint": null, "sender": "referee:REF01"}
+{"timestamp": "2025-12-20T15:54:23Z", "component": "league_manager", "event_type": "MATCH_RESULT_RECEIVED", "level": "INFO", "match_id": "R1M1", "winner": null}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "league_manager", "event_type": "MCP_RECEIVED", "level": "INFO", "message_type": "MATCH_RESULT_REPORT", "endpoint": null, "sender": "referee:REF01"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "league_manager", "event_type": "MATCH_RESULT_RECEIVED", "level": "INFO", "match_id": "R1M2", "winner": "P01"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "league_manager", "event_type": "MCP_RECEIVED", "level": "INFO", "message_type": "MATCH_RESULT_REPORT", "endpoint": null, "sender": "referee:REF01"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "league_manager", "event_type": "MATCH_RESULT_RECEIVED", "level": "INFO", "match_id": "R2M3", "winner": null}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "league_manager", "event_type": "MCP_RECEIVED", "level": "INFO", "message_type": "MATCH_RESULT_REPORT", "endpoint": null, "sender": "referee:REF01"}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "league_manager", "event_type": "MATCH_RESULT_RECEIVED", "level": "INFO", "match_id": "R2M4", "winner": "P03"}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "league_manager", "event_type": "MCP_RECEIVED", "level": "INFO", "message_type": "MATCH_RESULT_REPORT", "endpoint": null, "sender": "referee:REF01"}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "league_manager", "event_type": "MATCH_RESULT_RECEIVED", "level": "INFO", "match_id": "R3M5", "winner": null}
+{"timestamp": "2025-12-20T15:54:26Z", "component": "league_manager", "event_type": "MCP_RECEIVED", "level": "INFO", "message_type": "MATCH_RESULT_REPORT", "endpoint": null, "sender": "referee:REF01"}
+{"timestamp": "2025-12-20T15:54:26Z", "component": "league_manager", "event_type": "MATCH_RESULT_RECEIVED", "level": "INFO", "match_id": "R3M6", "winner": "P03"}

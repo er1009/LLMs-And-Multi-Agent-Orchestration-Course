@@ -1,0 +1,21 @@
+{
+  "match_id": "R1M2",
+  "round_id": 1,
+  "player_a_id": "P01",
+  "player_b_id": "P03",
+  "result": {
+    "winner": "P01",
+    "score": {
+      "P01": 3,
+      "P03": 0
+    },
+    "details": {
+      "drawn_number": 1,
+      "choices": {
+        "P01": "odd",
+        "P03": "even"
+      }
+    }
+  },
+  "timestamp": "2025-12-20T15:54:24Z"
+}

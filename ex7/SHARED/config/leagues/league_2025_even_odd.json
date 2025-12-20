@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0.0",
+  "league_id": "league_2025_even_odd",
+  "display_name": "Even/Odd League 2025",
+  "game_type": "even_odd",
+  "status": "ACTIVE",
+  "created_at": "2025-01-01T00:00:00Z",
+  "scoring": {
+    "win_points": 3,
+    "draw_points": 1,
+    "loss_points": 0,
+    "technical_loss_points": 0,
+    "tiebreakers": ["wins", "head_to_head", "draws"]
+  },
+  "scheduling": {
+    "format": "round_robin",
+    "matches_per_round": 2
+  },
+  "participants": {
+    "min_players": 2,
+    "max_players": 100
+  }
+}

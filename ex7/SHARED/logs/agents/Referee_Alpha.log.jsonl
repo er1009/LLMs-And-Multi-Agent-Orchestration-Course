@@ -1,0 +1,57 @@
+{"timestamp": "2025-12-20T15:54:09Z", "component": "Referee_Alpha", "event_type": "STARTUP", "level": "INFO", "port": 8001}
+{"timestamp": "2025-12-20T15:54:10Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "REFEREE_REGISTER_REQUEST", "endpoint": "http://localhost:8000/mcp"}
+{"timestamp": "2025-12-20T15:54:10Z", "component": "Referee_Alpha", "event_type": "REGISTERED", "level": "INFO", "referee_id": "REF01", "league_id": "league_2025_even_odd"}
+{"timestamp": "2025-12-20T15:54:23Z", "component": "Referee_Alpha", "event_type": "MATCH_START", "level": "INFO", "match_id": "R1M1", "player_a": "P01", "player_b": "P02"}
+{"timestamp": "2025-12-20T15:54:23Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "GAME_INVITATION", "endpoint": "http://localhost:8101/mcp", "player_id": "P01"}
+{"timestamp": "2025-12-20T15:54:23Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "GAME_INVITATION", "endpoint": "http://localhost:8102/mcp", "player_id": "P02"}
+{"timestamp": "2025-12-20T15:54:23Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "CHOOSE_PARITY_CALL", "endpoint": "http://localhost:8101/mcp", "player_id": "P01"}
+{"timestamp": "2025-12-20T15:54:23Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "CHOOSE_PARITY_CALL", "endpoint": "http://localhost:8102/mcp", "player_id": "P02"}
+{"timestamp": "2025-12-20T15:54:23Z", "component": "Referee_Alpha", "event_type": "MATCH_RESULT", "level": "INFO", "match_id": "R1M1", "number": 3, "parity": "odd", "winner": null}
+{"timestamp": "2025-12-20T15:54:23Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "GAME_OVER", "endpoint": "http://localhost:8101/mcp"}
+{"timestamp": "2025-12-20T15:54:23Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "GAME_OVER", "endpoint": "http://localhost:8102/mcp"}
+{"timestamp": "2025-12-20T15:54:23Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "MATCH_RESULT_REPORT", "endpoint": "http://localhost:8000/mcp"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "Referee_Alpha", "event_type": "MATCH_START", "level": "INFO", "match_id": "R1M2", "player_a": "P01", "player_b": "P03"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "GAME_INVITATION", "endpoint": "http://localhost:8101/mcp", "player_id": "P01"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "GAME_INVITATION", "endpoint": "http://localhost:8103/mcp", "player_id": "P03"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "CHOOSE_PARITY_CALL", "endpoint": "http://localhost:8101/mcp", "player_id": "P01"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "CHOOSE_PARITY_CALL", "endpoint": "http://localhost:8103/mcp", "player_id": "P03"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "Referee_Alpha", "event_type": "MATCH_RESULT", "level": "INFO", "match_id": "R1M2", "number": 1, "parity": "odd", "winner": "P01"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "GAME_OVER", "endpoint": "http://localhost:8101/mcp"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "GAME_OVER", "endpoint": "http://localhost:8103/mcp"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "MATCH_RESULT_REPORT", "endpoint": "http://localhost:8000/mcp"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "Referee_Alpha", "event_type": "MATCH_START", "level": "INFO", "match_id": "R2M3", "player_a": "P01", "player_b": "P04"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "GAME_INVITATION", "endpoint": "http://localhost:8101/mcp", "player_id": "P01"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "GAME_INVITATION", "endpoint": "http://localhost:8104/mcp", "player_id": "P04"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "CHOOSE_PARITY_CALL", "endpoint": "http://localhost:8101/mcp", "player_id": "P01"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "CHOOSE_PARITY_CALL", "endpoint": "http://localhost:8104/mcp", "player_id": "P04"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "Referee_Alpha", "event_type": "MATCH_RESULT", "level": "INFO", "match_id": "R2M3", "number": 6, "parity": "even", "winner": null}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "GAME_OVER", "endpoint": "http://localhost:8101/mcp"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "GAME_OVER", "endpoint": "http://localhost:8104/mcp"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "MATCH_RESULT_REPORT", "endpoint": "http://localhost:8000/mcp"}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "Referee_Alpha", "event_type": "MATCH_START", "level": "INFO", "match_id": "R2M4", "player_a": "P02", "player_b": "P03"}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "GAME_INVITATION", "endpoint": "http://localhost:8102/mcp", "player_id": "P02"}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "GAME_INVITATION", "endpoint": "http://localhost:8103/mcp", "player_id": "P03"}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "CHOOSE_PARITY_CALL", "endpoint": "http://localhost:8102/mcp", "player_id": "P02"}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "CHOOSE_PARITY_CALL", "endpoint": "http://localhost:8103/mcp", "player_id": "P03"}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "Referee_Alpha", "event_type": "MATCH_RESULT", "level": "INFO", "match_id": "R2M4", "number": 1, "parity": "odd", "winner": "P03"}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "GAME_OVER", "endpoint": "http://localhost:8102/mcp"}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "GAME_OVER", "endpoint": "http://localhost:8103/mcp"}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "MATCH_RESULT_REPORT", "endpoint": "http://localhost:8000/mcp"}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "Referee_Alpha", "event_type": "MATCH_START", "level": "INFO", "match_id": "R3M5", "player_a": "P02", "player_b": "P04"}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "GAME_INVITATION", "endpoint": "http://localhost:8102/mcp", "player_id": "P02"}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "GAME_INVITATION", "endpoint": "http://localhost:8104/mcp", "player_id": "P04"}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "CHOOSE_PARITY_CALL", "endpoint": "http://localhost:8102/mcp", "player_id": "P02"}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "CHOOSE_PARITY_CALL", "endpoint": "http://localhost:8104/mcp", "player_id": "P04"}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "Referee_Alpha", "event_type": "MATCH_RESULT", "level": "INFO", "match_id": "R3M5", "number": 2, "parity": "even", "winner": null}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "GAME_OVER", "endpoint": "http://localhost:8102/mcp"}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "GAME_OVER", "endpoint": "http://localhost:8104/mcp"}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "MATCH_RESULT_REPORT", "endpoint": "http://localhost:8000/mcp"}
+{"timestamp": "2025-12-20T15:54:26Z", "component": "Referee_Alpha", "event_type": "MATCH_START", "level": "INFO", "match_id": "R3M6", "player_a": "P03", "player_b": "P04"}
+{"timestamp": "2025-12-20T15:54:26Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "GAME_INVITATION", "endpoint": "http://localhost:8103/mcp", "player_id": "P03"}
+{"timestamp": "2025-12-20T15:54:26Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "GAME_INVITATION", "endpoint": "http://localhost:8104/mcp", "player_id": "P04"}
+{"timestamp": "2025-12-20T15:54:26Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "CHOOSE_PARITY_CALL", "endpoint": "http://localhost:8103/mcp", "player_id": "P03"}
+{"timestamp": "2025-12-20T15:54:26Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "CHOOSE_PARITY_CALL", "endpoint": "http://localhost:8104/mcp", "player_id": "P04"}
+{"timestamp": "2025-12-20T15:54:26Z", "component": "Referee_Alpha", "event_type": "MATCH_RESULT", "level": "INFO", "match_id": "R3M6", "number": 3, "parity": "odd", "winner": "P03"}
+{"timestamp": "2025-12-20T15:54:26Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "GAME_OVER", "endpoint": "http://localhost:8103/mcp"}
+{"timestamp": "2025-12-20T15:54:26Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "GAME_OVER", "endpoint": "http://localhost:8104/mcp"}
+{"timestamp": "2025-12-20T15:54:26Z", "component": "Referee_Alpha", "event_type": "MCP_SENT", "level": "INFO", "message_type": "MATCH_RESULT_REPORT", "endpoint": "http://localhost:8000/mcp"}

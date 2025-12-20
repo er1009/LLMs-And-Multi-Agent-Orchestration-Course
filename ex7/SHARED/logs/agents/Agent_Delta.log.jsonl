@@ -1,0 +1,21 @@
+{"timestamp": "2025-12-20T15:54:18Z", "component": "Agent_Delta", "event_type": "STARTUP", "level": "INFO", "port": 8104, "strategy": "random"}
+{"timestamp": "2025-12-20T15:54:20Z", "component": "Agent_Delta", "event_type": "MCP_SENT", "level": "INFO", "message_type": "LEAGUE_REGISTER_REQUEST", "endpoint": "http://localhost:8000/mcp"}
+{"timestamp": "2025-12-20T15:54:20Z", "component": "Agent_Delta", "event_type": "REGISTERED", "level": "INFO", "player_id": "P04", "league_id": "league_2025_even_odd"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "Agent_Delta", "event_type": "MCP_RECEIVED", "level": "INFO", "message_type": "GAME_INVITATION", "endpoint": null, "sender": "referee:REF01"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "Agent_Delta", "event_type": "GAME_INVITATION", "level": "INFO", "match_id": "R2M3", "opponent": "P01", "role": "PLAYER_B"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "Agent_Delta", "event_type": "MCP_RECEIVED", "level": "INFO", "message_type": "CHOOSE_PARITY_CALL", "endpoint": null, "sender": "referee:REF01"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "Agent_Delta", "event_type": "PARITY_CHOICE", "level": "INFO", "match_id": "R2M3", "choice": "even", "strategy": "random"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "Agent_Delta", "event_type": "MCP_RECEIVED", "level": "INFO", "message_type": "GAME_OVER", "endpoint": null, "sender": "referee:REF01"}
+{"timestamp": "2025-12-20T15:54:24Z", "component": "Agent_Delta", "event_type": "MATCH_RESULT", "level": "INFO", "match_id": "R2M3", "result": "DRAW", "my_choice": "even", "opponent_choice": "even", "drawn_number": 6, "stats": {"wins": 0, "losses": 0, "draws": 1, "points": 1, "games_played": 1}}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "Agent_Delta", "event_type": "MCP_RECEIVED", "level": "INFO", "message_type": "GAME_INVITATION", "endpoint": null, "sender": "referee:REF01"}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "Agent_Delta", "event_type": "GAME_INVITATION", "level": "INFO", "match_id": "R3M5", "opponent": "P02", "role": "PLAYER_B"}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "Agent_Delta", "event_type": "MCP_RECEIVED", "level": "INFO", "message_type": "CHOOSE_PARITY_CALL", "endpoint": null, "sender": "referee:REF01"}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "Agent_Delta", "event_type": "PARITY_CHOICE", "level": "INFO", "match_id": "R3M5", "choice": "odd", "strategy": "random"}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "Agent_Delta", "event_type": "MCP_RECEIVED", "level": "INFO", "message_type": "GAME_OVER", "endpoint": null, "sender": "referee:REF01"}
+{"timestamp": "2025-12-20T15:54:25Z", "component": "Agent_Delta", "event_type": "MATCH_RESULT", "level": "INFO", "match_id": "R3M5", "result": "DRAW", "my_choice": "odd", "opponent_choice": "odd", "drawn_number": 2, "stats": {"wins": 0, "losses": 0, "draws": 2, "points": 2, "games_played": 2}}
+{"timestamp": "2025-12-20T15:54:26Z", "component": "Agent_Delta", "event_type": "MCP_RECEIVED", "level": "INFO", "message_type": "GAME_INVITATION", "endpoint": null, "sender": "referee:REF01"}
+{"timestamp": "2025-12-20T15:54:26Z", "component": "Agent_Delta", "event_type": "GAME_INVITATION", "level": "INFO", "match_id": "R3M6", "opponent": "P03", "role": "PLAYER_B"}
+{"timestamp": "2025-12-20T15:54:26Z", "component": "Agent_Delta", "event_type": "MCP_RECEIVED", "level": "INFO", "message_type": "CHOOSE_PARITY_CALL", "endpoint": null, "sender": "referee:REF01"}
+{"timestamp": "2025-12-20T15:54:26Z", "component": "Agent_Delta", "event_type": "PARITY_CHOICE", "level": "INFO", "match_id": "R3M6", "choice": "even", "strategy": "random"}
+{"timestamp": "2025-12-20T15:54:26Z", "component": "Agent_Delta", "event_type": "MCP_RECEIVED", "level": "INFO", "message_type": "GAME_OVER", "endpoint": null, "sender": "referee:REF01"}
+{"timestamp": "2025-12-20T15:54:26Z", "component": "Agent_Delta", "event_type": "MATCH_RESULT", "level": "INFO", "match_id": "R3M6", "result": "LOSS", "my_choice": "even", "opponent_choice": "odd", "drawn_number": 3, "stats": {"wins": 0, "losses": 1, "draws": 2, "points": 2, "games_played": 3}}

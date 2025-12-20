@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.0.0",
+  "default_settings": {
+    "max_concurrent_matches": 2,
+    "game_types": ["even_odd"],
+    "version": "1.0.0"
+  },
+  "timeouts": {
+    "player_response_timeout_sec": 30,
+    "game_join_timeout_sec": 5
+  }
+}
